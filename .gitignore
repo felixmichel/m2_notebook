@@ -1,3 +1,5 @@
 .DS_Store
 .ipynb_checkpoints/
 data/FD_LOGEMTZE_2014.dbf
+material/
+geodata/
