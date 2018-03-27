@@ -1,0 +1,51 @@
+DEPCOM,NOM_COM,IRIS,DCOMIRIS,NOM_IRIS,TYP_IRIS,Ligne,LIB_IRIS,area,id,@id,attraction,leisure,type,name,source,building,access,barrier,wheelchair,operator,fixme,surface,architect,website,max_age,min_age,@relations,COUNT,NUMPOINTS,sum
+13201,Marseille 1er Arrondissement,0201,132010201,Gambetta,H,Noailles,Gambetta,124938,,,,,,,,,,,,,,,,,,,,0,0,0
+13201,Marseille 1er Arrondissement,0203,132010203,Vierge Doree,H,Saint-Charles,Vierge Doree,74486,,,,,,,,,,,,,,,,,,,,0,0,0
+13201,Marseille 1er Arrondissement,0104,132010104,Bernard du Bois,H,Saint-Charles,Bernard du Bois,133104,,,,,,,,,,,,,,,,,,,,0,0,0
+13201,Marseille 1er Arrondissement,0505,132010505,Saint-Charles-Gare,A,Saint-Charles,Saint-Charles-Gare,181569,,,,,,,,,,,,,,,,,,,,0,0,0
+13201,Marseille 1er Arrondissement,0102,132010102,Thubaneau,H,Noailles,Thubaneau,61002,way/419236965,way/419236965,,playground,,,,,,,,,,,,,,,,1,0,1
+13201,Marseille 1er Arrondissement,0302,132010302,Gare de l'Est,H,Noailles,Gare de l'Est,96331,,,,,,,,,,,,,,,,,,,,0,0,0
+13201,Marseille 1er Arrondissement,0601,132010601,Gymnase,H,Noailles,Gymnase,189369,,,,,,,,,,,,,,,,,,,,0,0,0
+13202,Marseille 2e Arrondissement,0404,132020404,Mazenod-Republique,H,Joliette,Mazenod-Republique,58068,,,,,,,,,,,,,,,,,,,,0,0,0
+13202,Marseille 2e Arrondissement,0402,132020402,Albrand-Ponteves,H,Désirée Clary,Albrand-Ponteves,37962,,,,,,,,,,,,,,,,,,,,0,0,0
+13202,Marseille 2e Arrondissement,0401,132020401,l'Eveche-Les Docks,H,Joliette,l'Eveche-Les Docks,825879,way/212389975,way/212389975,,playground,,,,,,,,,,,,,,,,2,0,2
+13202,Marseille 2e Arrondissement,0203,132020203,Dames,H,Jules Guesde,Dames,92573,,,,,,,,,,,,,,,,,,,,0,0,0
+13202,Marseille 2e Arrondissement,0403,132020403,Forbin,H,Joliette,Forbin,89651,,,,,,,,,,,,,,,,,,,,0,0,0
+13202,Marseille 2e Arrondissement,0205,132020205,Charite Republique,H,Joliette,Charite Republique,88729,,,,,,,,,,,,,,,,,,,,0,0,0
+13202,Marseille 2e Arrondissement,0202,132020202,Les Carmes,H,Jules Guesde,Les Carmes,102102,way/220597756,way/220597756,,playground,,,Bing + balade,,,,limited,,,,,,,,,1,0,1
+13202,Marseille 2e Arrondissement,0201,132020201,Montolieu,H,Jules Guesde,Montolieu,76547,,,,,,,,,,,,,,,,,,,,0,0,0
+13203,Marseille 3e Arrondissement,0203,132030203,Camille Pelletan,H,Jules Guesde,Camille Pelletan,168934,way/568304327,way/568304327,,playground,,,,,,,,,,,,,,,,1,0,1
+13203,Marseille 3e Arrondissement,0201,132030201,General Leclerc,A,Saint-Charles,General Leclerc,64409,way/422210033,way/422210033,,playground,,,,,,,,,tracé approximatif,,,,,,,1,0,1
+13203,Marseille 3e Arrondissement,0202,132030202,Les Facultes,H,Saint-Charles,Les Facultes,217749,,,,,,,,,,,,,,,,,,,,0,0,0
+13203,Marseille 3e Arrondissement,0403,132030403,Fonscolombes,H,National,Fonscolombes,123915,,,,,,,,,,,,,,,,,,,,0,1,1
+13203,Marseille 3e Arrondissement,0305,132030305,Bellevue Caravelle,H,National,Bellevue Caravelle,17378,,,,,,,,,,,,,,,,,,,,0,0,0
+13203,Marseille 3e Arrondissement,0402,132030402,Peyssonnel,H,Désirée Clary,Peyssonnel,219917,,,,,,,,,,,,,,,,,,,,0,0,0
+13203,Marseille 3e Arrondissement,0304,132030304,Briancon,A,National,Briancon,313327,,,,,,,,,,,,,,,,,,,,0,0,0
+13203,Marseille 3e Arrondissement,0401,132030401,Potier,H,Désirée Clary,Potier,180143,way/568695320,way/568695320,,playground,,,,,,,,,,,,,,,,2,0,2
+13203,Marseille 3e Arrondissement,0204,132030204,Le Racati,H,Jules Guesde,Le Racati,187709,,,,,,,,,,,,,,,,,,,,0,0,0
+13203,Marseille 3e Arrondissement,0306,132030306,Bellevue-Pyat,H,National,Bellevue-Pyat,31362,,,,,,,,,,,,,,,,,,,,0,0,0
+13206,Marseille 6e Arrondissement,0201,132060201,Delphes-Toulon,A,Castellane,Delphes-Toulon,18415,,,,,,,,,,,,,,,,,,,,0,0,0
+13206,Marseille 6e Arrondissement,0202,132060202,Le Mediterranee,H,Castellane,Le Mediterranee,137414,,,,,,,,,,,,,,,,,,,,0,1,1
+13206,Marseille 6e Arrondissement,0303,132060303,Julien,H,Notre-Dame-du-Mont - Cours Julien,Julien,95025,way/112609881,way/112609881,,playground,,,,,,,,,,,,,,,,1,0,1
+13206,Marseille 6e Arrondissement,0102,132060102,Fiolle-Castellane,H,Castellane,Fiolle-Castellane,140987,,,,,,,,,,,,,,,,,,,,0,0,0
+13206,Marseille 6e Arrondissement,0101,132060101,Escat-Saint Adrien,H,Castellane,Escat-Saint Adrien,171526,,,,,,,,,,,,,,,,,,,,0,0,0
+13206,Marseille 6e Arrondissement,0204,132060204,Marengo-Lodi,H,Castellane,Marengo-Lodi,165648,way/207764912,way/207764912,,playground,,,Bing,,,,,,,,,,,,,1,0,1
+13206,Marseille 6e Arrondissement,0301,132060301,des Bergers,H,Notre-Dame-du-Mont - Cours Julien,des Bergers,109748,,,,,,,,,,,,,,,,,,,,0,0,0
+13206,Marseille 6e Arrondissement,0302,132060302,Tilsit-Blanqui,H,Notre-Dame-du-Mont - Cours Julien,Tilsit-Blanqui,122455,,,,,,,,,,,,,,,,,,,,0,0,0
+13206,Marseille 6e Arrondissement,0203,132060203,Gouffe,H,Castellane,Gouffe,91665,,,,,,,,,,,,,,,,,,,,0,0,0
+13206,Marseille 6e Arrondissement,0103,132060103,Castellane-Italie,H,Castellane,Castellane-Italie,138979,,,,,,,,,,,,,,,,,,,,0,0,0
+13208,Marseille 8e Arrondissement,0401,132080401,Farges-Perier,H,Périer,Farges-Perier,118650,,,,,,,,,,,,,,,,,,,,0,0,0
+13208,Marseille 8e Arrondissement,0803,132080803,Orado-Carmagnole,H,Rond-point du Prado,Orado-Carmagnole,287437,,,,,,,,,,,,,,,,,,,,0,0,0
+13208,Marseille 8e Arrondissement,0403,132080403,Lord Duveen,H,Périer,Lord Duveen,204237,,,,,,,,,,,,,,,,,,,,0,0,0
+13208,Marseille 8e Arrondissement,0805,132080805,Mermoz-Grand Pavois,H,Rond-point du Prado,Mermoz-Grand Pavois,244769,,,,,,,,,,,,,,,,,,,,0,0,0
+13208,Marseille 8e Arrondissement,0802,132080802,Grand Saint-Giniez,H,Rond-point du Prado,Grand Saint-Giniez,179606,way/183521969,way/183521969,,playground,,,,,private,,,,,,,,,,,1,0,1
+13208,Marseille 8e Arrondissement,0703,132080703,Rabatau,H,Rond-point du Prado,Rabatau,310356,way/387834377,way/387834377,,playground,,,survey,,,,,,,,,,,,,1,0,1
+13208,Marseille 8e Arrondissement,0402,132080402,Mermoz Prado,H,Périer,Mermoz Prado,94168,way/256476482,way/256476482,,playground,,,Bing + terrain,,,,,,,,,,,,,1,0,1
+13208,Marseille 8e Arrondissement,0701,132080701,Turcat Mery,H,Périer,Turcat Mery,224229,,,,,,,,,,,,,,,,,,,,0,0,0
+13208,Marseille 8e Arrondissement,0704,132080704,Louvain,H,Périer,Louvain,189396,,,,,,,,,,,,,,,,,,,,0,0,0
+13208,Marseille 8e Arrondissement,0801,132080801,Parc Chanot,D,Rond-point du Prado,Parc Chanot,613291,,,,,,,,,,,,,,,,,,,,0,2,2
+13209,Marseille 9e Arrondissement,0803,132090803,Romain Rolland-Claudel,H,Sainte-Marguerite Dromel,Romain Rolland-Claudel,303836,,,,,,,,,,,,,,,,,,,,0,0,0
+13209,Marseille 9e Arrondissement,0802,132090802,La Pauline,H,Sainte-Marguerite Dromel,La Pauline,100528,,,,,,,,,,,,,,,,,,,,0,0,0
+13209,Marseille 9e Arrondissement,0801,132090801,Metro Dromel,H,Sainte-Marguerite Dromel,Metro Dromel,621080,,,,,,,,,,,,,,,,,,,,0,0,0
+13214,Marseille 14e Arrondissement,0302,132140302,Casanova,H,Bougainville,Casanova,831194,way/69663873,way/69663873,,playground,,Toy Land,cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010,yes,,,,,,,,,,,,1,0,1
+13215,Marseille 15e Arrondissement,0501,132150501,Zoccolat,H,Bougainville,Zoccolat,341681,,,,,,,,,,,,,,,,,,,,0,0,0
