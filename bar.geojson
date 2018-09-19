@@ -1,0 +1,3150 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-20T12:26:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/59360105",
+        "amenity": "bar",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3754263,
+              43.2553192
+            ],
+            [
+              5.3753716,
+              43.2550284
+            ],
+            [
+              5.3754657,
+              43.255019
+            ],
+            [
+              5.3754393,
+              43.2548786
+            ],
+            [
+              5.3758331,
+              43.2548393
+            ],
+            [
+              5.3758469,
+              43.2549125
+            ],
+            [
+              5.3760454,
+              43.2548927
+            ],
+            [
+              5.3760991,
+              43.2551779
+            ],
+            [
+              5.3758925,
+              43.2551986
+            ],
+            [
+              5.3758539,
+              43.2549934
+            ],
+            [
+              5.3756707,
+              43.2550117
+            ],
+            [
+              5.375723,
+              43.2552896
+            ],
+            [
+              5.3754263,
+              43.2553192
+            ]
+          ]
+        ]
+      },
+      "id": "way/59360105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67713886",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar des Treize Coins",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3664937,
+              43.2993968
+            ],
+            [
+              5.3664781,
+              43.2993477
+            ],
+            [
+              5.3664665,
+              43.2993154
+            ],
+            [
+              5.3664934,
+              43.2993142
+            ],
+            [
+              5.3665416,
+              43.2993126
+            ],
+            [
+              5.3665571,
+              43.2993612
+            ],
+            [
+              5.3665675,
+              43.2993937
+            ],
+            [
+              5.3664937,
+              43.2993968
+            ]
+          ]
+        ]
+      },
+      "id": "way/67713886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68964230",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Le Django",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4027749,
+              43.3138713
+            ],
+            [
+              5.4029165,
+              43.3138174
+            ],
+            [
+              5.4029397,
+              43.3138091
+            ],
+            [
+              5.4029837,
+              43.3138732
+            ],
+            [
+              5.4028655,
+              43.3139164
+            ],
+            [
+              5.40282,
+              43.3139323
+            ],
+            [
+              5.4027939,
+              43.313897
+            ],
+            [
+              5.4027749,
+              43.3138713
+            ]
+          ]
+        ]
+      },
+      "id": "way/68964230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70067735",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Fietje",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "website": "https://www.facebook.com/fietjelebar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3671944,
+              43.2906646
+            ],
+            [
+              5.3672887,
+              43.2906831
+            ],
+            [
+              5.3672601,
+              43.2907794
+            ],
+            [
+              5.36721,
+              43.2907697
+            ],
+            [
+              5.3671682,
+              43.2907616
+            ],
+            [
+              5.3671944,
+              43.2906646
+            ]
+          ]
+        ]
+      },
+      "id": "way/70067735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112815699",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar des Colonnes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.407853,
+              43.319053
+            ],
+            [
+              5.407943,
+              43.318978
+            ],
+            [
+              5.408057,
+              43.319047
+            ],
+            [
+              5.407969,
+              43.319123
+            ],
+            [
+              5.407906,
+              43.319085
+            ],
+            [
+              5.40789,
+              43.319074
+            ],
+            [
+              5.407853,
+              43.319053
+            ]
+          ]
+        ]
+      },
+      "id": "way/112815699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154589584",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Idéal Bar",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.417848,
+              43.279711
+            ],
+            [
+              5.417926,
+              43.279735
+            ],
+            [
+              5.417873,
+              43.279828
+            ],
+            [
+              5.417811,
+              43.27981
+            ],
+            [
+              5.417795,
+              43.279805
+            ],
+            [
+              5.417848,
+              43.279711
+            ]
+          ]
+        ]
+      },
+      "id": "way/154589584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154594754",
+        "addr:housenumber": "86",
+        "addr:street": "Avenue de la Timone",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Tabac Le Cyrano",
+        "note": "FIXME Bar Tabac est dans le nom car il n'y a pas une bonne manière (et exploitée) de tagguer les deux caractéristiques. Donc c'est pour compenser le fait que seule une des deux caratéristiques tagguées risque d'être retenue à l'exploitation des données.",
+        "shop": "tobacco",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.403916,
+              43.285876
+            ],
+            [
+              5.403891,
+              43.285785
+            ],
+            [
+              5.403887,
+              43.285769
+            ],
+            [
+              5.40388,
+              43.28574
+            ],
+            [
+              5.403955,
+              43.285749
+            ],
+            [
+              5.403992,
+              43.285861
+            ],
+            [
+              5.403984,
+              43.2858626
+            ],
+            [
+              5.403916,
+              43.285876
+            ]
+          ]
+        ]
+      },
+      "id": "way/154594754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154595973",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Le Saint-Cyr",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.417199,
+              43.279736
+            ],
+            [
+              5.417244,
+              43.279651
+            ],
+            [
+              5.417317,
+              43.279638
+            ],
+            [
+              5.417286,
+              43.279709
+            ],
+            [
+              5.417276,
+              43.279731
+            ],
+            [
+              5.417263,
+              43.279763
+            ],
+            [
+              5.417199,
+              43.279736
+            ]
+          ]
+        ]
+      },
+      "id": "way/154595973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154603350",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.412469,
+              43.2792
+            ],
+            [
+              5.41247,
+              43.279241
+            ],
+            [
+              5.41247,
+              43.279281
+            ],
+            [
+              5.412414,
+              43.279285
+            ],
+            [
+              5.412417,
+              43.279309
+            ],
+            [
+              5.412414,
+              43.279309
+            ],
+            [
+              5.412343,
+              43.279315
+            ],
+            [
+              5.412328,
+              43.279199
+            ],
+            [
+              5.412469,
+              43.2792
+            ]
+          ]
+        ]
+      },
+      "id": "way/154603350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159876973",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar de La Viste",
+        "old_name": "Bar de l'Eau fraîche",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.357539,
+              43.359571
+            ],
+            [
+              5.35744,
+              43.359563
+            ],
+            [
+              5.357449,
+              43.359491
+            ],
+            [
+              5.357551,
+              43.3595
+            ],
+            [
+              5.357539,
+              43.359571
+            ]
+          ]
+        ]
+      },
+      "id": "way/159876973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309927654",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar-Tabac Le Jérome",
+        "shop_1": "tabacco",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.424927,
+              43.246248
+            ],
+            [
+              5.42484,
+              43.246296
+            ],
+            [
+              5.424808,
+              43.246313
+            ],
+            [
+              5.424794,
+              43.246298
+            ],
+            [
+              5.424729,
+              43.246234
+            ],
+            [
+              5.42485,
+              43.246166
+            ],
+            [
+              5.424864,
+              43.246179
+            ],
+            [
+              5.424927,
+              43.246248
+            ]
+          ]
+        ]
+      },
+      "id": "way/309927654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481354966",
+        "addr:housenumber": "10",
+        "addr:street": "Boulevard Gustave Ganay",
+        "amenity": "bar",
+        "name": "Black Stone"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3983688,
+              43.2654292
+            ],
+            [
+              5.398405,
+              43.2653613
+            ],
+            [
+              5.3986405,
+              43.2654319
+            ],
+            [
+              5.398777,
+              43.2654713
+            ],
+            [
+              5.398936,
+              43.265515
+            ],
+            [
+              5.398896,
+              43.265581
+            ],
+            [
+              5.3988137,
+              43.2655577
+            ],
+            [
+              5.398737,
+              43.265536
+            ],
+            [
+              5.3986002,
+              43.265498
+            ],
+            [
+              5.3983688,
+              43.2654292
+            ]
+          ]
+        ]
+      },
+      "id": "way/481354966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410325229",
+        "amenity": "bar",
+        "name": "Le Poste à Galène"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3917628,
+          43.2932276
+        ]
+      },
+      "id": "node/410325229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445460940",
+        "amenity": "bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3922532,
+          43.292176
+        ]
+      },
+      "id": "node/445460940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445465152",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.389845,
+          43.2987407
+        ]
+      },
+      "id": "node/445465152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738499739",
+        "amenity": "bar",
+        "name": "L'Art Haché"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3876743,
+          43.294421
+        ]
+      },
+      "id": "node/738499739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738499748",
+        "amenity": "bar",
+        "name": "Le Champ de Mars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3851917,
+          43.2936094
+        ]
+      },
+      "id": "node/738499748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738499754",
+        "amenity": "bar",
+        "name": "Le Bar de la Plaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3868009,
+          43.2939891
+        ]
+      },
+      "id": "node/738499754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739356904",
+        "amenity": "bar",
+        "name": "Exit Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.371104,
+          43.2930786
+        ]
+      },
+      "id": "node/739356904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/829230465",
+        "addr:housenumber": "135",
+        "addr:postcode": "13006",
+        "addr:street": "rue d'Aubagne",
+        "amenity": "bar",
+        "description": "Open art workshop",
+        "name": "Asile 404",
+        "website": "http://asile404.org",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3830229,
+          43.2926911
+        ]
+      },
+      "id": "node/829230465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1019084824",
+        "amenity": "bar",
+        "name": "Bistro Marseillais",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4167773,
+          43.3437998
+        ]
+      },
+      "id": "node/1019084824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038629965",
+        "amenity": "bar",
+        "name": "Bar des Maraîchers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3856427,
+          43.2953876
+        ]
+      },
+      "id": "node/1038629965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1102602130",
+        "addr:city": "Marseille",
+        "addr:housenumber": "3",
+        "addr:postcode": "13005",
+        "addr:street": "Rue Saint-Pierre",
+        "amenity": "bar",
+        "name": "Aux 3G",
+        "note": "LGBTQ friendly",
+        "website": "http://aux3g.site-forums.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3869845,
+          43.2939314
+        ]
+      },
+      "id": "node/1102602130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1209758730",
+        "addr:city": "Marseille",
+        "addr:housenumber": "167",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "bar",
+        "name": "Estaminet du Camas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3964987,
+          43.2957048
+        ]
+      },
+      "id": "node/1209758730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1333734719",
+        "amenity": "bar",
+        "name": "Bar Unic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3748712,
+          43.2929198
+        ]
+      },
+      "id": "node/1333734719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1355124080",
+        "addr:city": "Marseille",
+        "addr:housenumber": "15",
+        "addr:street": "Quai de Rive-Neuve",
+        "amenity": "bar",
+        "name": "Bar de la marine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.370766,
+          43.2930103
+        ]
+      },
+      "id": "node/1355124080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496704064",
+        "amenity": "bar",
+        "name": "Le Dar Lamifa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3828041,
+          43.2928751
+        ]
+      },
+      "id": "node/1496704064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621255147",
+        "amenity": "bar",
+        "name": "Le Barrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4052772,
+          43.3033634
+        ]
+      },
+      "id": "node/1621255147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1638996526",
+        "amenity": "bar",
+        "name": "Bar du Dôme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.404851,
+          43.3168519
+        ]
+      },
+      "id": "node/1638996526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1639383291",
+        "amenity": "bar",
+        "name": "Le Sprint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3934417,
+          43.3232867
+        ]
+      },
+      "id": "node/1639383291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1650359109",
+        "amenity": "bar",
+        "name": "Le Terminus",
+        "toilets:wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4186345,
+          43.3037018
+        ]
+      },
+      "id": "node/1650359109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1652799894",
+        "amenity": "bar",
+        "name": "Le Montaigne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4146066,
+          43.3043205
+        ]
+      },
+      "id": "node/1652799894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653249113",
+        "amenity": "bar",
+        "name": "Café Julien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3833901,
+          43.2944177
+        ]
+      },
+      "id": "node/1653249113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653249114",
+        "amenity": "bar",
+        "name": "El Ache de Cuba",
+        "website": "http://www.elachedecuba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3833538,
+          43.2926316
+        ]
+      },
+      "id": "node/1653249114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1662141942",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397992,
+          43.2955087
+        ]
+      },
+      "id": "node/1662141942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1749560847",
+        "addr:housenumber": "12",
+        "addr:street": "Boulevard Alexandre Delabre",
+        "amenity": "bar",
+        "name": "20000 Lieues Sous la Bière",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3463693,
+          43.2166709
+        ]
+      },
+      "id": "node/1749560847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1797913469",
+        "amenity": "bar",
+        "name": "bar de la place",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4170312,
+          43.2587375
+        ]
+      },
+      "id": "node/1797913469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799965042",
+        "addr:housenumber": "2",
+        "addr:postcode": "13010",
+        "addr:street": "Boulevard de pont de vivaux",
+        "alt_name": "Association CercLL logiciels libres",
+        "amenity": "bar",
+        "name": "Bistrot des anges",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4168281,
+          43.2796314
+        ]
+      },
+      "id": "node/1799965042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1801763647",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3839574,
+          43.3058151
+        ]
+      },
+      "id": "node/1801763647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822938954",
+        "addr:housenumber": "59",
+        "addr:postcode": "13007",
+        "addr:street": "rue d'endoume",
+        "amenity": "bar",
+        "name": "Le Duke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3668259,
+          43.2881171
+        ]
+      },
+      "id": "node/1822938954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822938982",
+        "amenity": "bar",
+        "name": "Bar de la Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.358275,
+          43.2842775
+        ]
+      },
+      "id": "node/1822938982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822939007",
+        "amenity": "bar",
+        "name": "Bar de la Station d'Emdoume"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3598454,
+          43.2850673
+        ]
+      },
+      "id": "node/1822939007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861599252",
+        "addr:housenumber": "2",
+        "addr:postcode": "13007",
+        "addr:street": "Traverse de la Batterie de Malmousque",
+        "amenity": "bar",
+        "name": "Sunlight Social Club",
+        "source": "survey",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3493754,
+          43.2819046
+        ]
+      },
+      "id": "node/1861599252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868944130",
+        "amenity": "bar",
+        "name": "Le Bar du Zouave",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3941431,
+          43.2949487
+        ]
+      },
+      "id": "node/1868944130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876122095",
+        "amenity": "bar",
+        "fixme": "Ajouter informations",
+        "name": "Scuderia Café",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3928165,
+          43.2929949
+        ]
+      },
+      "id": "node/1876122095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1885072443",
+        "addr:city": "Marseille",
+        "addr:housenumber": "130",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "bar",
+        "name": "Le 68",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3940976,
+          43.295312
+        ]
+      },
+      "id": "node/1885072443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912838612",
+        "addr:housenumber": "35",
+        "addr:postcode": "13007",
+        "addr:street": "Quai Rive Neuve",
+        "amenity": "bar",
+        "name": "Le Café des Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3677361,
+          43.2925563
+        ]
+      },
+      "id": "node/1912838612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1921634133",
+        "addr:city": "Marseille",
+        "addr:country": "FR",
+        "addr:street": "Boulevard Bouge",
+        "amenity": "bar",
+        "name": "Bar des Platanes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4124822,
+          43.3225293
+        ]
+      },
+      "id": "node/1921634133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933718313",
+        "addr:city": "Marseille",
+        "addr:housenumber": "180",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "bar",
+        "name": "Bar Tabac du Camas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3967904,
+          43.2954603
+        ]
+      },
+      "id": "node/1933718313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933729139",
+        "addr:housenumber": "78",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "bar",
+        "name": "Bar des Sports",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3915682,
+          43.2951645
+        ]
+      },
+      "id": "node/1933729139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933746721",
+        "addr:city": "Marseille",
+        "addr:housenumber": "139",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "bar",
+        "name": "L'Artpéro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3950055,
+          43.2956096
+        ]
+      },
+      "id": "node/1933746721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933789603",
+        "addr:city": "Marseille",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "bar",
+        "name": "Bar Dégustation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3977922,
+          43.2955306
+        ]
+      },
+      "id": "node/1933789603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941583743",
+        "amenity": "bar",
+        "name": "Bar Le Phoceen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3695366,
+          43.301633
+        ]
+      },
+      "id": "node/1941583743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941584781",
+        "amenity": "bar",
+        "name": "Le Paddock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.370604,
+          43.300909
+        ]
+      },
+      "id": "node/1941584781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941649847",
+        "amenity": "bar",
+        "name": "Pub O quinze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3739962,
+          43.2938422
+        ]
+      },
+      "id": "node/1941649847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941650761",
+        "amenity": "bar",
+        "name": "Marengo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374141,
+          43.293453
+        ]
+      },
+      "id": "node/1941650761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2001201531",
+        "amenity": "bar",
+        "name": "Kawawateï",
+        "operator": "Mains Libres",
+        "website": "http://www.mains-libres.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3866526,
+          43.2915073
+        ]
+      },
+      "id": "node/2001201531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715827",
+        "addr:city": "Marseille",
+        "addr:housenumber": "17",
+        "addr:postcode": "13006",
+        "addr:street": "Rue André Poggioli",
+        "amenity": "bar",
+        "library": "public",
+        "name": "Le Funiculaire",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3853241,
+          43.2935991
+        ]
+      },
+      "id": "node/2010715827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715837",
+        "amenity": "bar",
+        "name": "L'Intermédiaire",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3865903,
+          43.2939274
+        ]
+      },
+      "id": "node/2010715837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715847",
+        "amenity": "bar",
+        "name": "Le Chat Perdu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3852754,
+          43.2934848
+        ]
+      },
+      "id": "node/2010715847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019803233",
+        "amenity": "bar",
+        "name": "Bar Métro Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.392739,
+          43.2881487
+        ]
+      },
+      "id": "node/2019803233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024606526",
+        "amenity": "bar",
+        "name": "Couleur Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3829945,
+          43.2942753
+        ]
+      },
+      "id": "node/2024606526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2028106645",
+        "amenity": "bar",
+        "gambling": "lottery",
+        "name": "Le Point Barre",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3835471,
+          43.2951526
+        ]
+      },
+      "id": "node/2028106645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2082465622",
+        "amenity": "bar",
+        "name": "Bar Tabac PMU de la Croix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4144022,
+          43.3041948
+        ]
+      },
+      "id": "node/2082465622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2113050086",
+        "amenity": "bar",
+        "food": "yes",
+        "name": "Le Vilain Petit Canard",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3796569,
+          43.297457
+        ]
+      },
+      "id": "node/2113050086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2137516953",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3872921,
+          43.289157
+        ]
+      },
+      "id": "node/2137516953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2137516955",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3875,
+          43.2893628
+        ]
+      },
+      "id": "node/2137516955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259970388",
+        "amenity": "bar",
+        "name": "Bar impérial",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3675236,
+          43.3048713
+        ]
+      },
+      "id": "node/2259970388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259970544",
+        "amenity": "bar",
+        "name": "Bar Joseph",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3676131,
+          43.3049016
+        ]
+      },
+      "id": "node/2259970544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375832166",
+        "addr:city": "Marseille",
+        "addr:housenumber": "3",
+        "addr:postcode": "13006",
+        "addr:street": "Place Paul Cézanne",
+        "amenity": "bar",
+        "name": "Le Molotov",
+        "website": "http://www.lemolotov.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3831674,
+          43.2927083
+        ]
+      },
+      "id": "node/2375832166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2394376859",
+        "amenity": "bar",
+        "name": "Melting Pot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3851218,
+          43.2934593
+        ]
+      },
+      "id": "node/2394376859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2418162622",
+        "amenity": "bar",
+        "name": "La Mer Veilleuse",
+        "website": "http://www.lamerveilleuse.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3839608,
+          43.2918898
+        ]
+      },
+      "id": "node/2418162622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511318299",
+        "addr:city": "Marseille",
+        "addr:postcode": "13001",
+        "amenity": "bar",
+        "name": "Bar de l'Est"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380447,
+          43.2965265
+        ]
+      },
+      "id": "node/2511318299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580526471",
+        "amenity": "bar",
+        "name": "Bar Tabac de Sainte-Marthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3923062,
+          43.3382986
+        ]
+      },
+      "id": "node/2580526471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608216145",
+        "amenity": "bar",
+        "name": "Dégustation de Provence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3896236,
+          43.286897
+        ]
+      },
+      "id": "node/2608216145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608216152",
+        "amenity": "bar",
+        "name": "Le Nemrod",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3894303,
+          43.2867965
+        ]
+      },
+      "id": "node/2608216152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623975597",
+        "amenity": "bar",
+        "name": "Le Foyer du Peuple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3949159,
+          43.2852061
+        ]
+      },
+      "id": "node/2623975597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645349787",
+        "amenity": "bar",
+        "name": "Bar Chic",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3589797,
+          43.3323926
+        ]
+      },
+      "id": "node/2645349787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2653831154",
+        "addr:housenumber": "135",
+        "addr:street": "Chemin de la Nerthe",
+        "amenity": "bar",
+        "name": "Bar Georges",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3088131,
+          43.3649061
+        ]
+      },
+      "id": "node/2653831154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2702498119",
+        "amenity": "bar",
+        "name": "La Maison Hantée",
+        "website": "www.lamaisonhantee.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837174,
+          43.2945689
+        ]
+      },
+      "id": "node/2702498119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822285609",
+        "addr:housenumber": "72",
+        "addr:postcode": "13008",
+        "addr:street": "Rue Liandier",
+        "amenity": "bar",
+        "name": "Au Bon Coin",
+        "source": "Field Data Collection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3922884,
+          43.2783478
+        ]
+      },
+      "id": "node/2822285609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822289332",
+        "addr:housenumber": "1",
+        "addr:postcode": "13008",
+        "addr:street": "Rue Roumanille",
+        "amenity": "bar",
+        "name": "Bar de la Paix",
+        "source": "Field Data Collection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3931601,
+          43.2776379
+        ]
+      },
+      "id": "node/2822289332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822300955",
+        "addr:postcode": "13008",
+        "addr:street": "Boulevard Rabatau",
+        "amenity": "bar",
+        "name": "La Civette du Parc",
+        "source": "Field Data Collection",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3957256,
+          43.2754664
+        ]
+      },
+      "id": "node/2822300955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3106616838",
+        "addr:city": "Marseille",
+        "addr:housenumber": "6",
+        "addr:postcode": "13001",
+        "addr:street": "Rue Corneille",
+        "amenity": "bar",
+        "name": "Le comptoir de l'opéra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3754146,
+          43.2935519
+        ]
+      },
+      "id": "node/3106616838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3106616842",
+        "addr:city": "Marseille",
+        "addr:housenumber": "16",
+        "addr:postcode": "13001",
+        "addr:street": "Rue Saint-Saëns",
+        "amenity": "bar",
+        "name": "O'Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.375298,
+          43.2938744
+        ]
+      },
+      "id": "node/3106616842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3204079821",
+        "amenity": "bar",
+        "name": "Ma Pomme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4400563,
+          43.2899499
+        ]
+      },
+      "id": "node/3204079821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3329654866",
+        "amenity": "bar",
+        "name": "Le Baraki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3875843,
+          43.293597
+        ]
+      },
+      "id": "node/3329654866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3329661172",
+        "amenity": "bar",
+        "name": "Le Kaloum",
+        "opening_hours": "Bar de nuit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3797632,
+          43.2945847
+        ]
+      },
+      "id": "node/3329661172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370604781",
+        "amenity": "bar",
+        "name": "Bar de la Fraicheur",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4111856,
+          43.2723011
+        ]
+      },
+      "id": "node/3370604781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3379968792",
+        "addr:city": "Marseille",
+        "addr:housenumber": "120",
+        "addr:postcode": "13006",
+        "addr:street": "Rue Breteuil",
+        "amenity": "bar",
+        "name": "Brasserie Le Gallia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3776076,
+          43.285479
+        ]
+      },
+      "id": "node/3379968792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458976621",
+        "amenity": "bar",
+        "name": "Bar PMU du Centre",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.330817,
+          43.3600081
+        ]
+      },
+      "id": "node/3458976621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3502955156",
+        "amenity": "bar",
+        "name": "Bar Terminus",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3916796,
+          43.33851
+        ]
+      },
+      "id": "node/3502955156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3539250757",
+        "amenity": "bar",
+        "name": "Bar du Dépôt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3688787,
+          43.3189777
+        ]
+      },
+      "id": "node/3539250757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3571160493",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "contact:google_plus": "https://plus.google.com/112538747444685380677/about?gl=fr&hl=fr",
+        "contact:phone": "+33 4 82 79 83 77",
+        "name": "Le Safari",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "payment:cash": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.399452,
+          43.3297359
+        ]
+      },
+      "id": "node/3571160493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594068734",
+        "amenity": "bar",
+        "name": "Brasserie Le Grand Escalier",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380371,
+          43.3013024
+        ]
+      },
+      "id": "node/3594068734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606665471",
+        "amenity": "bar",
+        "name": "Bar-tabac Le Lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3656647,
+          43.3293356
+        ]
+      },
+      "id": "node/3606665471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3623078757",
+        "amenity": "bar",
+        "name": "Le Petit Catalan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3591683,
+          43.2883975
+        ]
+      },
+      "id": "node/3623078757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638694840",
+        "amenity": "bar",
+        "name": "Café Suspendu - Scoop",
+        "note": "Café Suspendu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3673862,
+          43.320763
+        ]
+      },
+      "id": "node/3638694840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3717734045",
+        "amenity": "bar",
+        "name": "Le Surcouf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3835255,
+          43.2940299
+        ]
+      },
+      "id": "node/3717734045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3779480017",
+        "amenity": "bar",
+        "name": "Bar des 4 chemins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4232577,
+          43.326877
+        ]
+      },
+      "id": "node/3779480017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3780623733",
+        "amenity": "bar",
+        "name": "Bar de la fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4272198,
+          43.32895
+        ]
+      },
+      "id": "node/3780623733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3780623734",
+        "addr:city": "Marseille",
+        "addr:postcode": "13013",
+        "addr:street": "Avenue de la Rose",
+        "amenity": "bar",
+        "name": "Bar-tabac La Rose",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426002,
+          43.3284263
+        ]
+      },
+      "id": "node/3780623734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790492605",
+        "amenity": "bar",
+        "contact:website": "http://www.grandbardesgoudes.com/",
+        "cuisine": "french",
+        "name": "Grand Bar des Goudes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3459653,
+          43.2150782
+        ]
+      },
+      "id": "node/3790492605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3799422419",
+        "amenity": "bar",
+        "name": "Bar de La Barasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4799674,
+          43.2858379
+        ]
+      },
+      "id": "node/3799422419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3799422420",
+        "amenity": "bar",
+        "name": "Bar Électro",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4819696,
+          43.2852392
+        ]
+      },
+      "id": "node/3799422420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3799422422",
+        "amenity": "bar",
+        "name": "Le Casino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4813966,
+          43.2853503
+        ]
+      },
+      "id": "node/3799422422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3807693956",
+        "amenity": "bar",
+        "name": "Le Chateau Gombert",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4390663,
+          43.3517358
+        ]
+      },
+      "id": "node/3807693956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3821145294",
+        "amenity": "bar",
+        "name": "Bar Tabac de Saint-Louis",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359095,
+          43.3483036
+        ]
+      },
+      "id": "node/3821145294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822613271",
+        "amenity": "bar",
+        "name": "Bar Pierre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3591956,
+          43.3476547
+        ]
+      },
+      "id": "node/3822613271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822613272",
+        "amenity": "bar",
+        "name": "La Civette Saint-Louis",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3592237,
+          43.347362
+        ]
+      },
+      "id": "node/3822613272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3823091140",
+        "amenity": "bar",
+        "name": "Bar des Bons Vivants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359551,
+          43.3424374
+        ]
+      },
+      "id": "node/3823091140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3823091144",
+        "amenity": "bar",
+        "name": "International Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3612267,
+          43.3401101
+        ]
+      },
+      "id": "node/3823091144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3825935647",
+        "addr:city": "Marseille",
+        "addr:housenumber": "30",
+        "addr:postcode": "13006",
+        "addr:street": "Place Notre-Dame du Mont",
+        "amenity": "bar",
+        "name": "La Dame Noir",
+        "opening_hours": "Tue-Sat 6pm to 2am",
+        "smoking": "outside",
+        "website": "https://ladamenoir.wordpress.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384482,
+          43.2916113
+        ]
+      },
+      "id": "node/3825935647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830903285",
+        "amenity": "bar",
+        "name": "La Havane",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3628528,
+          43.3365727
+        ]
+      },
+      "id": "node/3830903285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3852182304",
+        "amenity": "bar",
+        "name": "Le Montecristo",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4337405,
+          43.3285769
+        ]
+      },
+      "id": "node/3852182304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3906576693",
+        "amenity": "bar",
+        "name": "Nexus Gaming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3829229,
+          43.2944964
+        ]
+      },
+      "id": "node/3906576693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992084767",
+        "amenity": "bar",
+        "name": "Grand Bar des Colonnes",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4354287,
+          43.2838923
+        ]
+      },
+      "id": "node/3992084767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4016689905",
+        "amenity": "bar",
+        "name": "PMU Bar Tabac",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4231479,
+          43.270165
+        ]
+      },
+      "id": "node/4016689905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087718756",
+        "amenity": "bar",
+        "name": "Le Campagne",
+        "source": "survey 2016",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3891984,
+          43.2906239
+        ]
+      },
+      "id": "node/4087718756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127983368",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4005832,
+          43.3100291
+        ]
+      },
+      "id": "node/4127983368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4227051696",
+        "amenity": "bar",
+        "name": "Bar du Redon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4242547,
+          43.2471299
+        ]
+      },
+      "id": "node/4227051696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4303128891",
+        "addr:housenumber": "11",
+        "addr:postcode": "13012",
+        "addr:street": "Route d'Enco de Botte",
+        "amenity": "bar",
+        "name": "bar tabac des pins",
+        "opening_hours": "Mo-Sa 06:30-21:00; Su 07:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4656936,
+          43.3136011
+        ]
+      },
+      "id": "node/4303128891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396418908",
+        "alcohol": "wine",
+        "amenity": "bar",
+        "amenity_1": "restaurant",
+        "name": "L'Entre Pots",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3865411,
+          43.3002474
+        ]
+      },
+      "id": "node/4396418908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401243511",
+        "amenity": "bar",
+        "name": "Leverrier",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3930842,
+          43.3059874
+        ]
+      },
+      "id": "node/4401243511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959280",
+        "amenity": "bar",
+        "craft": "brewery",
+        "name": "Le Gambetta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3846602,
+          43.2992062
+        ]
+      },
+      "id": "node/4405959280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959287",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383192,
+          43.2992707
+        ]
+      },
+      "id": "node/4405959287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959289",
+        "amenity": "bar",
+        "name": "Bar de la Mairie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3830501,
+          43.2992786
+        ]
+      },
+      "id": "node/4405959289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959291",
+        "amenity": "bar",
+        "name": "Le 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3828405,
+          43.2992847
+        ]
+      },
+      "id": "node/4405959291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959293",
+        "amenity": "bar",
+        "name": "Le Triomph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3825879,
+          43.2993047
+        ]
+      },
+      "id": "node/4405959293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415083967",
+        "amenity": "bar",
+        "name": "Le Traquenard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3868435,
+          43.2940894
+        ]
+      },
+      "id": "node/4415083967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430401472",
+        "amenity": "bar",
+        "name": "Bar de la Rotonde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3831002,
+          43.3066197
+        ]
+      },
+      "id": "node/4430401472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430401473",
+        "amenity": "bar",
+        "name": "Bar de la Rotonde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3830875,
+          43.3066333
+        ]
+      },
+      "id": "node/4430401473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430509403",
+        "addr:housenumber": "104",
+        "addr:postcode": "13003",
+        "addr:street": "Boulevard National",
+        "amenity": "bar",
+        "name": "Bar de la rotonde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3830664,
+          43.3066282
+        ]
+      },
+      "id": "node/4430509403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430509423",
+        "amenity": "bar",
+        "name": "Le Bergerac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3816721,
+          43.3079868
+        ]
+      },
+      "id": "node/4430509423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430509428",
+        "amenity": "bar",
+        "name": "salon de thé Sidi Bou",
+        "note": "association 1901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.381486,
+          43.3081618
+        ]
+      },
+      "id": "node/4430509428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463345810",
+        "amenity": "bar",
+        "amenity_1": "restaurant",
+        "name": "Grand bar du Chapitre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.385872,
+          43.2994024
+        ]
+      },
+      "id": "node/4463345810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463345812",
+        "amenity": "bar",
+        "name": "Le Mounguy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386067,
+          43.2994925
+        ]
+      },
+      "id": "node/4463345812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463345813",
+        "amenity": "bar",
+        "name": "Axxam Aqbayli Maison Kabyle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3863384,
+          43.2996301
+        ]
+      },
+      "id": "node/4463345813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463345825",
+        "amenity": "bar",
+        "amenity_1": "restaurant",
+        "name": "Latcho Tapas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.388458,
+          43.3004297
+        ]
+      },
+      "id": "node/4463345825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502508335",
+        "addr:city": "Marseille",
+        "addr:housenumber": "9",
+        "addr:street": "Rue de l'Arc",
+        "amenity": "bar",
+        "name": "Les 9 salopards",
+        "phone": "+337 76 69 01 32",
+        "website": "https://www.facebook.com/les9salopards/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3801376,
+          43.2944555
+        ]
+      },
+      "id": "node/4502508335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547008423",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.319192,
+          43.36267
+        ]
+      },
+      "id": "node/4547008423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547008434",
+        "amenity": "bar",
+        "name": "Bar des sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3141173,
+          43.3630619
+        ]
+      },
+      "id": "node/4547008434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560696393",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3869766,
+          43.2943901
+        ]
+      },
+      "id": "node/4560696393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591323695",
+        "amenity": "bar",
+        "name": "Le Soleil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3136202,
+          43.3607952
+        ]
+      },
+      "id": "node/4591323695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591323696",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Les Pêcheurs",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.313683,
+          43.3608
+        ]
+      },
+      "id": "node/4591323696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4622306091",
+        "amenity": "bar",
+        "name": "La Grande Terrasse",
+        "name:fr": "La Grande Terrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3500319,
+          43.2833255
+        ]
+      },
+      "id": "node/4622306091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629705577",
+        "amenity": "bar",
+        "name": "Grand bar Vacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3794099,
+          43.2953434
+        ]
+      },
+      "id": "node/4629705577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713564667",
+        "amenity": "bar",
+        "name": "Bar Dugommier",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807599,
+          43.2983056
+        ]
+      },
+      "id": "node/4713564667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713584943",
+        "amenity": "bar",
+        "name": "Bar Le Globe",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3806031,
+          43.2995434
+        ]
+      },
+      "id": "node/4713584943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713612574",
+        "amenity": "bar",
+        "name": "Le français",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3809582,
+          43.3000111
+        ]
+      },
+      "id": "node/4713612574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4777343721",
+        "amenity": "bar",
+        "cuisine": "local;tapas",
+        "name": "Le Couz'In",
+        "name:fr": "Le Couz'In",
+        "opening_hours": "We-Mo 19:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3842773,
+          43.2947159
+        ]
+      },
+      "id": "node/4777343721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4951205722",
+        "amenity": "bar",
+        "name": "Casanova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3728606,
+          43.296548
+        ]
+      },
+      "id": "node/4951205722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4955166022",
+        "amenity": "bar",
+        "name": "Brasserie du Tramway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3817848,
+          43.2981941
+        ]
+      },
+      "id": "node/4955166022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056846023",
+        "addr:housenumber": "127",
+        "addr:postcode": "13007",
+        "addr:street": "Rue Sainte",
+        "amenity": "bar",
+        "cuisine": "tapas",
+        "name": "U. Percut",
+        "website": "http://u-percut.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3681066,
+          43.2908926
+        ]
+      },
+      "id": "node/5056846023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5122248358",
+        "amenity": "bar",
+        "description": "ouvert ponctuellement, gay and friendly",
+        "name": "Bar associatif",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3802981,
+          43.294131
+        ]
+      },
+      "id": "node/5122248358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181596454",
+        "amenity": "bar",
+        "name": "Le Fontenoy Bar Tabac",
+        "note": "tabac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4304744,
+          43.2823035
+        ]
+      },
+      "id": "node/5181596454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5193941530",
+        "amenity": "bar",
+        "name": "Starbucks Coffee",
+        "operator": "starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3728019,
+          43.2976458
+        ]
+      },
+      "id": "node/5193941530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265363224",
+        "amenity": "bar",
+        "name": "Le Colbert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3752292,
+          43.2992681
+        ]
+      },
+      "id": "node/5265363224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265363225",
+        "amenity": "bar",
+        "name": "Le douze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3748501,
+          43.2993024
+        ]
+      },
+      "id": "node/5265363225"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+DEPCOM,NOM_COM,IRIS,DCOMIRIS,NOM_IRIS,TYP_IRIS,ligne,LIB_IRIS,area
+13201,Marseille 1er Arrondissement,0201,132010201,Gambetta,H,Noailles,Gambetta,90998
+13201,Marseille 1er Arrondissement,0203,132010203,Vierge Doree,H,Saint-Charles,Vierge Doree,54249
+13201,Marseille 1er Arrondissement,0104,132010104,Bernard du Bois,H,Saint-Charles,Bernard du Bois,96942
+13201,Marseille 1er Arrondissement,0505,132010505,Saint-Charles-Gare,A,Saint-Charles,Saint-Charles-Gare,132236
+13201,Marseille 1er Arrondissement,0102,132010102,Thubaneau,H,Noailles,Thubaneau,44432
+13201,Marseille 1er Arrondissement,0302,132010302,Gare de l'Est,H,Noailles,Gare de l'Est,70167
+13201,Marseille 1er Arrondissement,0601,132010601,Gymnase,H,Noailles,Gymnase,137934
+13202,Marseille 2e Arrondissement,0404,132020404,Mazenod-Republique,H,Joliette,Mazenod-Republique,42291
+13202,Marseille 2e Arrondissement,0402,132020402,Albrand-Ponteves,H,Désirée Clary,Albrand-Ponteves,27646
+13202,Marseille 2e Arrondissement,0401,132020401,l'Eveche-Les Docks,H,Joliette,l'Eveche-Les Docks,601480
+13202,Marseille 2e Arrondissement,0203,132020203,Dames,H,Jules Guesde,Dames,67422
+13202,Marseille 2e Arrondissement,0403,132020403,Forbin,H,Joliette,Forbin,65291
+13202,Marseille 2e Arrondissement,0205,132020205,Charite Republique,H,Joliette,Charite Republique,64624
+13202,Marseille 2e Arrondissement,0202,132020202,Les Carmes,H,Jules Guesde,Les Carmes,74364
+13202,Marseille 2e Arrondissement,0201,132020201,Montolieu,H,Jules Guesde,Montolieu,55749
+13203,Marseille 3e Arrondissement,0203,132030203,Camille Pelletan,H,Jules Guesde,Camille Pelletan,123027
+13203,Marseille 3e Arrondissement,0201,132030201,General Leclerc,A,Saint-Charles,General Leclerc,46909
+13203,Marseille 3e Arrondissement,0202,132030202,Les Facultes,H,Saint-Charles,Les Facultes,158579
+13203,Marseille 3e Arrondissement,0403,132030403,Fonscolombes,H,National,Fonscolombes,90231
+13203,Marseille 3e Arrondissement,0305,132030305,Bellevue Caravelle,H,National,Bellevue Caravelle,12653
+13203,Marseille 3e Arrondissement,0402,132030402,Peyssonnel,H,Désirée Clary,Peyssonnel,160142
+13203,Marseille 3e Arrondissement,0304,132030304,Briancon,A,National,Briancon,228139
+13203,Marseille 3e Arrondissement,0401,132030401,Potier,H,Désirée Clary,Potier,131181
+13203,Marseille 3e Arrondissement,0204,132030204,Le Racati,H,Jules Guesde,Le Racati,136702
+13203,Marseille 3e Arrondissement,0306,132030306,Bellevue-Pyat,H,National,Bellevue-Pyat,22835
+13206,Marseille 6e Arrondissement,0201,132060201,Delphes-Toulon,A,Castellane,Delphes-Toulon,13416
+13206,Marseille 6e Arrondissement,0202,132060202,Le Mediterranee,H,Castellane,Le Mediterranee,100113
+13206,Marseille 6e Arrondissement,0303,132060303,Julien,H,Notre-Dame-du-Mont - Cours Julien,Julien,69219
+13206,Marseille 6e Arrondissement,0102,132060102,Fiolle-Castellane,H,Castellane,Fiolle-Castellane,102713
+13206,Marseille 6e Arrondissement,0101,132060101,Escat-Saint Adrien,H,Castellane,Escat-Saint Adrien,124968
+13206,Marseille 6e Arrondissement,0204,132060204,Marengo-Lodi,H,Castellane,Marengo-Lodi,120673
+13206,Marseille 6e Arrondissement,0301,132060301,des Bergers,H,Notre-Dame-du-Mont - Cours Julien,des Bergers,79947
+13206,Marseille 6e Arrondissement,0302,132060302,Tilsit-Blanqui,H,Notre-Dame-du-Mont - Cours Julien,Tilsit-Blanqui,89202
+13206,Marseille 6e Arrondissement,0203,132060203,Gouffe,H,Castellane,Gouffe,66781
+13206,Marseille 6e Arrondissement,0103,132060103,Castellane-Italie,H,Castellane,Castellane-Italie,101248
+13208,Marseille 8e Arrondissement,0401,132080401,Farges-Perier,H,Périer,Farges-Perier,86448
+13208,Marseille 8e Arrondissement,0803,132080803,Orado-Carmagnole,H,Rond-point du Prado,Orado-Carmagnole,209472
+13208,Marseille 8e Arrondissement,0403,132080403,Lord Duveen,H,Périer,Lord Duveen,148815
+13208,Marseille 8e Arrondissement,0805,132080805,Mermoz-Grand Pavois,H,Rond-point du Prado,Mermoz-Grand Pavois,178362
+13208,Marseille 8e Arrondissement,0802,132080802,Grand Saint-Giniez,H,Rond-point du Prado,Grand Saint-Giniez,130890
+13208,Marseille 8e Arrondissement,0703,132080703,Rabatau,H,Rond-point du Prado,Rabatau,226142
+13208,Marseille 8e Arrondissement,0402,132080402,Mermoz Prado,H,Périer,Mermoz Prado,68616
+13208,Marseille 8e Arrondissement,0701,132080701,Turcat Mery,H,Périer,Turcat Mery,163372
+13208,Marseille 8e Arrondissement,0704,132080704,Louvain,H,Périer,Louvain,138003
+13208,Marseille 8e Arrondissement,0801,132080801,Parc Chanot,D,Rond-point du Prado,Parc Chanot,446918
+13209,Marseille 9e Arrondissement,0803,132090803,Romain Rolland-Claudel,H,Sainte-Marguerite Dromel,Romain Rolland-Claudel,221416
+13209,Marseille 9e Arrondissement,0802,132090802,La Pauline,H,Sainte-Marguerite Dromel,La Pauline,73254
+13209,Marseille 9e Arrondissement,0801,132090801,Metro Dromel,H,Sainte-Marguerite Dromel,Metro Dromel,452582
+13214,Marseille 14e Arrondissement,0302,132140302,Casanova,H,Bougainville,Casanova,605098
+13215,Marseille 15e Arrondissement,0501,132150501,Zoccolat,H,Bougainville,Zoccolat,248749

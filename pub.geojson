@@ -1,0 +1,1036 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-22T13:45:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70056909",
+        "addr:housenumber": "60",
+        "addr:street": "Corniche Président John Kennedy",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Le Bistrot Plage",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "website": "http://www.bistrot-plage.fr/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3508158,
+              43.2861081
+            ],
+            [
+              5.3507802,
+              43.2861789
+            ],
+            [
+              5.3507768,
+              43.2861858
+            ],
+            [
+              5.35069,
+              43.2861731
+            ],
+            [
+              5.3506731,
+              43.2861709
+            ],
+            [
+              5.350649,
+              43.2861671
+            ],
+            [
+              5.3506378,
+              43.2861887
+            ],
+            [
+              5.3506043,
+              43.28625
+            ],
+            [
+              5.3504986,
+              43.2862163
+            ],
+            [
+              5.3505031,
+              43.2862077
+            ],
+            [
+              5.3505299,
+              43.2861568
+            ],
+            [
+              5.3505633,
+              43.2861228
+            ],
+            [
+              5.3507495,
+              43.2861001
+            ],
+            [
+              5.3508158,
+              43.2861081
+            ]
+          ]
+        ]
+      },
+      "id": "way/70056909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154604606",
+        "amenity": "pub",
+        "building": "yes",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "Le Crillon",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.418259,
+              43.280013
+            ],
+            [
+              5.418126,
+              43.279971
+            ],
+            [
+              5.418145,
+              43.279939
+            ],
+            [
+              5.418207,
+              43.279834
+            ],
+            [
+              5.418212,
+              43.279824
+            ],
+            [
+              5.418344,
+              43.279865
+            ],
+            [
+              5.41828,
+              43.279976
+            ],
+            [
+              5.418268,
+              43.279999
+            ],
+            [
+              5.418259,
+              43.280013
+            ]
+          ]
+        ]
+      },
+      "id": "way/154604606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/449112905",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Le Sampolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3651216,
+          43.2897722
+        ]
+      },
+      "id": "node/449112905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/627619534",
+        "amenity": "pub",
+        "brewery": "guinness;Kilkenny",
+        "internet_access": "wlan",
+        "name": "O'Malley's",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3721208,
+          43.293456
+        ]
+      },
+      "id": "node/627619534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739356909",
+        "amenity": "pub",
+        "name": "The Shamrock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.370513,
+          43.2929661
+        ]
+      },
+      "id": "node/739356909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/990321676",
+        "amenity": "pub",
+        "name": "Le Petit Pernod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3845049,
+          43.2946438
+        ]
+      },
+      "id": "node/990321676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/990321678",
+        "amenity": "pub",
+        "name": "La Passerelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3842002,
+          43.2948101
+        ]
+      },
+      "id": "node/990321678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991811853",
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "food": "yes",
+        "name": "Chez Guy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3867809,
+          43.2930076
+        ]
+      },
+      "id": "node/991811853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991816648",
+        "amenity": "pub",
+        "name": "Le Cyrano",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3873267,
+          43.2938184
+        ]
+      },
+      "id": "node/991816648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1012489799",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Equitable Café",
+        "website": "http://www.equitablecafe.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3829484,
+          43.2944372
+        ]
+      },
+      "id": "node/1012489799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038618034",
+        "amenity": "pub",
+        "gambling": "lottery;betting",
+        "name": "Le Giulia",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3841624,
+          43.2985001
+        ]
+      },
+      "id": "node/1038618034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1148173686",
+        "amenity": "pub",
+        "gambling": "lottery",
+        "name": "Brasserie des Allées",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3810708,
+          43.2993771
+        ]
+      },
+      "id": "node/1148173686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1282652843",
+        "amenity": "pub",
+        "name": "El Cubano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4098926,
+          43.2916691
+        ]
+      },
+      "id": "node/1282652843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1288030060",
+        "amenity": "pub",
+        "name": "O'Thierry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3866005,
+          43.3002803
+        ]
+      },
+      "id": "node/1288030060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319273232",
+        "amenity": "pub",
+        "name": "Le Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3786317,
+          43.295986
+        ]
+      },
+      "id": "node/1319273232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1338679796",
+        "amenity": "pub",
+        "name": "Bar du Platane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3883167,
+          43.2883262
+        ]
+      },
+      "id": "node/1338679796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1439859469",
+        "amenity": "pub",
+        "name": "Connolly's Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3650454,
+          43.2387291
+        ]
+      },
+      "id": "node/1439859469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448514088",
+        "amenity": "pub",
+        "name": "Bar du Repos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3736906,
+          43.2830952
+        ]
+      },
+      "id": "node/1448514088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485011621",
+        "amenity": "pub",
+        "name": "Bar Moustier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3143383,
+          43.3605834
+        ]
+      },
+      "id": "node/1485011621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1505681615",
+        "amenity": "pub",
+        "name": "Bar de la Fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3808708,
+          43.2941346
+        ]
+      },
+      "id": "node/1505681615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1549176587",
+        "amenity": "pub",
+        "name": "Le WAAW",
+        "website": "http://www.waaw.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3848432,
+          43.2938301
+        ]
+      },
+      "id": "node/1549176587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1559306086",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Le Savoyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3924482,
+          43.2848342
+        ]
+      },
+      "id": "node/1559306086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1568168668",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Le Troquet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3947999,
+          43.2858336
+        ]
+      },
+      "id": "node/1568168668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1577032877",
+        "amenity": "pub",
+        "name": "Le Saphir",
+        "note": "This is a chicha bar, \"pub\" remains the closest tag but it seems a bit odd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3885059,
+          43.2994947
+        ]
+      },
+      "id": "node/1577032877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710309596",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Le Belge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3724162,
+          43.2098052
+        ]
+      },
+      "id": "node/1710309596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1747838244",
+        "amenity": "pub",
+        "name": "Bar des 4 avenues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3649616,
+          43.2327455
+        ]
+      },
+      "id": "node/1747838244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933715513",
+        "addr:city": "Marseille",
+        "addr:housenumber": "176",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "pub",
+        "name": "The Black Unicorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3964364,
+          43.2954408
+        ]
+      },
+      "id": "node/1933715513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1989576559",
+        "amenity": "pub",
+        "name": "Bar de la Gaité"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4034391,
+          43.2260052
+        ]
+      },
+      "id": "node/1989576559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715825",
+        "amenity": "pub",
+        "name": "Brasserie d'Ambrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3861378,
+          43.2940164
+        ]
+      },
+      "id": "node/2010715825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715829",
+        "amenity": "pub",
+        "cuisine": "tapas",
+        "food": "yes",
+        "name": "Dos Hermanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384723,
+          43.293348
+        ]
+      },
+      "id": "node/2010715829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715842",
+        "amenity": "pub",
+        "cuisine": "tapas",
+        "food": "yes",
+        "name": "La Butte Rouge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3844416,
+          43.2948444
+        ]
+      },
+      "id": "node/2010715842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715849",
+        "amenity": "pub",
+        "gambling": "lottery;betting",
+        "name": "Le St Michel",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3860019,
+          43.2939364
+        ]
+      },
+      "id": "node/2010715849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019893917",
+        "amenity": "pub",
+        "name": "Henri's Pub",
+        "note": "Pub Irlandais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3847594,
+          43.2859589
+        ]
+      },
+      "id": "node/2019893917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026369718",
+        "amenity": "pub",
+        "cuisine": "tapas",
+        "food": "yes",
+        "name": "Chez Gilda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3845423,
+          43.294793
+        ]
+      },
+      "id": "node/2026369718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2028106644",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Le Méso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384649,
+          43.2947413
+        ]
+      },
+      "id": "node/2028106644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2032808762",
+        "amenity": "pub",
+        "gambling": "lottery;betting",
+        "name": "Les Régates",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3715835,
+          43.2441372
+        ]
+      },
+      "id": "node/2032808762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2041086081",
+        "amenity": "pub",
+        "gambling": "lottery",
+        "name": "Bar Tabac de la Place",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3847315,
+          43.2914716
+        ]
+      },
+      "id": "node/2041086081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2041086086",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Brasserie Le Marseillais - Café Suspendu",
+        "note": "Café Suspendu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3848809,
+          43.2913976
+        ]
+      },
+      "id": "node/2041086086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059563921",
+        "addr:city": "Marseille",
+        "addr:postcode": "13006",
+        "addr:street": "Cours Julien",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Blue Myst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3838234,
+          43.2932115
+        ]
+      },
+      "id": "node/2059563921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059563926",
+        "addr:city": "Marseille",
+        "addr:postcode": "13006",
+        "addr:street": "Cours Julien",
+        "amenity": "pub",
+        "name": "O'Cours Jus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837811,
+          43.2933288
+        ]
+      },
+      "id": "node/2059563926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308816406",
+        "addr:city": "Marseille",
+        "addr:housenumber": "16",
+        "addr:postcode": "13006",
+        "addr:street": "Rue Saint-Pierre",
+        "amenity": "pub",
+        "contact:email": "bieredelaplaine@gmail.com",
+        "microbrewery": "yes",
+        "name": "La Bière de la Plaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3877794,
+          43.2935627
+        ]
+      },
+      "id": "node/2308816406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2353581178",
+        "addr:housenumber": "7",
+        "addr:postcode": "13001",
+        "addr:street": "rue De La Paix Marcel Paul",
+        "amenity": "pub",
+        "name": "Little Temple Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3724239,
+          43.293378
+        ]
+      },
+      "id": "node/2353581178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3530214477",
+        "amenity": "pub",
+        "name": "buvette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3962676,
+          43.2691457
+        ]
+      },
+      "id": "node/3530214477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3906578983",
+        "amenity": "pub",
+        "name": "Living Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3828907,
+          43.2945608
+        ]
+      },
+      "id": "node/3906578983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3989777385",
+        "addr:city": "Marseille",
+        "addr:country": "FR",
+        "addr:postcode": "13008",
+        "addr:street": "Avenue Joseph Vidal",
+        "amenity": "pub",
+        "brewery": "1664;Grimbergen;Guinness;Kilkenny;Kronenbourg",
+        "name": "The Red Lion",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3754711,
+          43.2499536
+        ]
+      },
+      "id": "node/3989777385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4224081495",
+        "addr:city": "Marseille",
+        "amenity": "pub",
+        "name": "The Queen Victoria",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3718475,
+          43.2933807
+        ]
+      },
+      "id": "node/4224081495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314411676",
+        "amenity": "pub",
+        "name": "O'Brady's Irish Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.394096,
+          43.2588009
+        ]
+      },
+      "id": "node/4314411676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4764592402",
+        "amenity": "pub",
+        "name": "Le Marlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3718727,
+          43.293151
+        ]
+      },
+      "id": "node/4764592402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4764599683",
+        "amenity": "pub",
+        "name": "The Outback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3718537,
+          43.2931932
+        ]
+      },
+      "id": "node/4764599683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4764607734",
+        "amenity": "pub",
+        "name": "Le Petit Bistrot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3717633,
+          43.2923798
+        ]
+      },
+      "id": "node/4764607734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4915102481",
+        "amenity": "pub",
+        "name": "Little Pub",
+        "outdoor_seating": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3916743,
+          43.2872646
+        ]
+      },
+      "id": "node/4915102481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5118816768",
+        "amenity": "pub",
+        "name": "Chez Rolland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3796388,
+          43.3183856
+        ]
+      },
+      "id": "node/5118816768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150050206",
+        "amenity": "pub",
+        "name": "La Fée Verte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3732774,
+          43.2931323
+        ]
+      },
+      "id": "node/5150050206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5346831972",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374398,
+          43.3165139
+        ]
+      },
+      "id": "node/5346831972"
+    }
+  ]
+}

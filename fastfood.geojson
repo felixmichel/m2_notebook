@@ -1,0 +1,4917 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-20T12:21:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67696561",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Le Gambetta",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3810189,
+              43.2992665
+            ],
+            [
+              5.3810175,
+              43.2992458
+            ],
+            [
+              5.3810629,
+              43.2992441
+            ],
+            [
+              5.3810644,
+              43.2992648
+            ],
+            [
+              5.3810189,
+              43.2992665
+            ]
+          ]
+        ]
+      },
+      "id": "way/67696561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67705649",
+        "addr:city": "Marseille",
+        "addr:housenumber": "100",
+        "addr:postcode": "13001",
+        "addr:street": "La Canebière",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "O'Tacos",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3823147,
+              43.2978946
+            ],
+            [
+              5.3823399,
+              43.2978218
+            ],
+            [
+              5.3823701,
+              43.2978265
+            ],
+            [
+              5.3824283,
+              43.2978358
+            ],
+            [
+              5.3823981,
+              43.2979234
+            ],
+            [
+              5.382353,
+              43.2979078
+            ],
+            [
+              5.3823147,
+              43.2978946
+            ]
+          ]
+        ]
+      },
+      "id": "way/67705649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68938005",
+        "amenity": "fast_food",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3709767,
+              43.3197348
+            ],
+            [
+              5.3710713,
+              43.3197571
+            ],
+            [
+              5.3710795,
+              43.3197706
+            ],
+            [
+              5.371074,
+              43.3197833
+            ],
+            [
+              5.3710572,
+              43.3197886
+            ],
+            [
+              5.3709623,
+              43.3197639
+            ],
+            [
+              5.3709767,
+              43.3197348
+            ]
+          ]
+        ]
+      },
+      "id": "way/68938005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68964257",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Droit au d'widch",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3994641,
+              43.2902371
+            ],
+            [
+              5.3994417,
+              43.2902291
+            ],
+            [
+              5.399456,
+              43.2902099
+            ],
+            [
+              5.3994763,
+              43.2902193
+            ],
+            [
+              5.3994641,
+              43.2902371
+            ]
+          ]
+        ]
+      },
+      "id": "way/68964257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68969068",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3860289,
+              43.2943222
+            ],
+            [
+              5.3860199,
+              43.2943056
+            ],
+            [
+              5.3860539,
+              43.2942961
+            ],
+            [
+              5.3860626,
+              43.2943123
+            ],
+            [
+              5.3860289,
+              43.2943222
+            ]
+          ]
+        ]
+      },
+      "id": "way/68969068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68988041",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "O'Delices",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3862517,
+              43.2953862
+            ],
+            [
+              5.3862424,
+              43.2953685
+            ],
+            [
+              5.386262,
+              43.2953627
+            ],
+            [
+              5.3862711,
+              43.295381
+            ],
+            [
+              5.3862517,
+              43.2953862
+            ]
+          ]
+        ]
+      },
+      "id": "way/68988041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68988865",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Le Dirigeable",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3861079,
+              43.2950918
+            ],
+            [
+              5.3860997,
+              43.2950749
+            ],
+            [
+              5.3861176,
+              43.295069
+            ],
+            [
+              5.3861265,
+              43.295087
+            ],
+            [
+              5.3861079,
+              43.2950918
+            ]
+          ]
+        ]
+      },
+      "id": "way/68988865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69124661",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich;kebab",
+        "name": "Le Félix Baret",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3796103,
+              43.2916327
+            ],
+            [
+              5.3796277,
+              43.2916005
+            ],
+            [
+              5.3796609,
+              43.2916101
+            ],
+            [
+              5.3796433,
+              43.2916422
+            ],
+            [
+              5.3796103,
+              43.2916327
+            ]
+          ]
+        ]
+      },
+      "id": "way/69124661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69131689",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Le petit Castellane",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3837958,
+              43.2863498
+            ],
+            [
+              5.3837773,
+              43.2863443
+            ],
+            [
+              5.3837848,
+              43.2863308
+            ],
+            [
+              5.3838091,
+              43.2863233
+            ],
+            [
+              5.3838276,
+              43.2863286
+            ],
+            [
+              5.3838202,
+              43.2863423
+            ],
+            [
+              5.3837958,
+              43.2863498
+            ]
+          ]
+        ]
+      },
+      "id": "way/69131689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69137422",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "O Dadou",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.384434,
+              43.285198
+            ],
+            [
+              5.3844092,
+              43.2851894
+            ],
+            [
+              5.3844217,
+              43.2851643
+            ],
+            [
+              5.3844495,
+              43.2851721
+            ],
+            [
+              5.384434,
+              43.285198
+            ]
+          ]
+        ]
+      },
+      "id": "way/69137422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69141882",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "La Boîte à Bouffe",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3775462,
+              43.2905428
+            ],
+            [
+              5.3775428,
+              43.2905609
+            ],
+            [
+              5.3775127,
+              43.2905574
+            ],
+            [
+              5.3775159,
+              43.2905398
+            ],
+            [
+              5.3775462,
+              43.2905428
+            ]
+          ]
+        ]
+      },
+      "id": "way/69141882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69613197",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Chicken World",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3328106,
+              43.3544958
+            ],
+            [
+              5.3328977,
+              43.3545319
+            ],
+            [
+              5.3328773,
+              43.3545593
+            ],
+            [
+              5.3328415,
+              43.3546082
+            ],
+            [
+              5.3327934,
+              43.3545917
+            ],
+            [
+              5.3328043,
+              43.35453
+            ],
+            [
+              5.3328106,
+              43.3544958
+            ]
+          ]
+        ]
+      },
+      "id": "way/69613197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69620507",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "panisses; chichi frégis",
+        "internet_access": "no",
+        "name": "Magali",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.314537,
+              43.3603501
+            ],
+            [
+              5.3145261,
+              43.3603351
+            ],
+            [
+              5.3145524,
+              43.360325
+            ],
+            [
+              5.3145633,
+              43.36034
+            ],
+            [
+              5.314537,
+              43.3603501
+            ]
+          ]
+        ]
+      },
+      "id": "way/69620507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69633433",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "panisses;chichi frégis",
+        "internet_access": "no",
+        "name": "Lou Goustado de l'Estaco",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3148971,
+              43.3601864
+            ],
+            [
+              5.3148856,
+              43.360172
+            ],
+            [
+              5.314905,
+              43.3601637
+            ],
+            [
+              5.3149166,
+              43.3601781
+            ],
+            [
+              5.3148971,
+              43.3601864
+            ]
+          ]
+        ]
+      },
+      "id": "way/69633433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69638296",
+        "amenity": "fast_food",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3746222,
+              43.336305
+            ],
+            [
+              5.3745283,
+              43.3363315
+            ],
+            [
+              5.3745277,
+              43.3363084
+            ],
+            [
+              5.3745364,
+              43.3362953
+            ],
+            [
+              5.3745382,
+              43.3362841
+            ],
+            [
+              5.3746052,
+              43.3362676
+            ],
+            [
+              5.3746222,
+              43.336305
+            ]
+          ]
+        ]
+      },
+      "id": "way/69638296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69639571",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Snack Va et vient",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3971496,
+              43.3306408
+            ],
+            [
+              5.3972687,
+              43.3306361
+            ],
+            [
+              5.3972741,
+              43.3307311
+            ],
+            [
+              5.3971563,
+              43.3307349
+            ],
+            [
+              5.3971496,
+              43.3306408
+            ]
+          ]
+        ]
+      },
+      "id": "way/69639571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69645736",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Le Délice",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3838584,
+              43.3243272
+            ],
+            [
+              5.3838436,
+              43.3243377
+            ],
+            [
+              5.3838175,
+              43.324337
+            ],
+            [
+              5.3838081,
+              43.3243251
+            ],
+            [
+              5.3838085,
+              43.324311
+            ],
+            [
+              5.3838193,
+              43.3242997
+            ],
+            [
+              5.3838458,
+              43.3243004
+            ],
+            [
+              5.3838598,
+              43.3243131
+            ],
+            [
+              5.3838584,
+              43.3243272
+            ]
+          ]
+        ]
+      },
+      "id": "way/69645736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69646508",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Chez Cousin",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3917898,
+              43.338797
+            ],
+            [
+              5.3917814,
+              43.3387834
+            ],
+            [
+              5.3917835,
+              43.3387795
+            ],
+            [
+              5.3917624,
+              43.3387726
+            ],
+            [
+              5.3917647,
+              43.3387541
+            ],
+            [
+              5.3917937,
+              43.338744
+            ],
+            [
+              5.3918123,
+              43.3387543
+            ],
+            [
+              5.3918109,
+              43.3387703
+            ],
+            [
+              5.3918211,
+              43.3387864
+            ],
+            [
+              5.3917898,
+              43.338797
+            ]
+          ]
+        ]
+      },
+      "id": "way/69646508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69650566",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3883764,
+              43.3310103
+            ],
+            [
+              5.3884039,
+              43.3311641
+            ],
+            [
+              5.3880468,
+              43.3311953
+            ],
+            [
+              5.3880219,
+              43.3310427
+            ],
+            [
+              5.3883764,
+              43.3310103
+            ]
+          ]
+        ]
+      },
+      "id": "way/69650566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70060604",
+        "amenity": "fast_food",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3597859,
+              43.2931444
+            ],
+            [
+              5.3598058,
+              43.2931303
+            ],
+            [
+              5.359828,
+              43.2931469
+            ],
+            [
+              5.3598082,
+              43.293161
+            ],
+            [
+              5.3597859,
+              43.2931444
+            ]
+          ]
+        ]
+      },
+      "id": "way/70060604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97275743",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Le Bon Coin",
+        "source": "survey;Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3854328,
+              43.284802
+            ],
+            [
+              5.3854485,
+              43.2847601
+            ],
+            [
+              5.3854833,
+              43.2847671
+            ],
+            [
+              5.3854676,
+              43.2848089
+            ],
+            [
+              5.3854328,
+              43.284802
+            ]
+          ]
+        ]
+      },
+      "id": "way/97275743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99362350",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "drink": "yes",
+        "name": "Le Cabanon",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3850022,
+              43.2842041
+            ],
+            [
+              5.3849939,
+              43.2841936
+            ],
+            [
+              5.3850015,
+              43.2841765
+            ],
+            [
+              5.3850173,
+              43.2841705
+            ],
+            [
+              5.3850263,
+              43.284181
+            ],
+            [
+              5.385018,
+              43.2841996
+            ],
+            [
+              5.3850022,
+              43.2842041
+            ]
+          ]
+        ]
+      },
+      "id": "way/99362350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112814980",
+        "amenity": "fast_food",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.402725,
+              43.318812
+            ],
+            [
+              5.402631,
+              43.318858
+            ],
+            [
+              5.402514,
+              43.31874
+            ],
+            [
+              5.4026067,
+              43.3186926
+            ],
+            [
+              5.4026109,
+              43.3186967
+            ],
+            [
+              5.402673,
+              43.3187589
+            ],
+            [
+              5.402725,
+              43.318812
+            ]
+          ]
+        ]
+      },
+      "id": "way/112814980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112819235",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Caféteria CROUS",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.411413,
+              43.337677
+            ],
+            [
+              5.411409,
+              43.337824
+            ],
+            [
+              5.41136,
+              43.337824
+            ],
+            [
+              5.411358,
+              43.337885
+            ],
+            [
+              5.411408,
+              43.337885
+            ],
+            [
+              5.411403,
+              43.33802
+            ],
+            [
+              5.411263,
+              43.338018
+            ],
+            [
+              5.411274,
+              43.337675
+            ],
+            [
+              5.411413,
+              43.337677
+            ]
+          ]
+        ]
+      },
+      "id": "way/112819235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112849951",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Snack Laveran",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.413447,
+              43.3264329
+            ],
+            [
+              5.4134146,
+              43.3264224
+            ],
+            [
+              5.4134401,
+              43.3263765
+            ],
+            [
+              5.4134721,
+              43.3263868
+            ],
+            [
+              5.413447,
+              43.3264329
+            ]
+          ]
+        ]
+      },
+      "id": "way/112849951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120054411",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Le Daumier"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3874976,
+              43.261965
+            ],
+            [
+              5.3874887,
+              43.2619407
+            ],
+            [
+              5.3874991,
+              43.2619247
+            ],
+            [
+              5.3875225,
+              43.2619331
+            ],
+            [
+              5.3875322,
+              43.2619547
+            ],
+            [
+              5.3875218,
+              43.2619726
+            ],
+            [
+              5.3874976,
+              43.261965
+            ]
+          ]
+        ]
+      },
+      "id": "way/120054411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120054412",
+        "amenity": "fast_food",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.403969,
+              43.2509141
+            ],
+            [
+              5.4039383,
+              43.2508894
+            ],
+            [
+              5.4039727,
+              43.2508667
+            ],
+            [
+              5.4040034,
+              43.2508915
+            ],
+            [
+              5.403969,
+              43.2509141
+            ]
+          ]
+        ]
+      },
+      "id": "way/120054412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153554406",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Pizza minute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.427368,
+              43.245169
+            ],
+            [
+              5.427311,
+              43.245104
+            ],
+            [
+              5.427382,
+              43.245072
+            ],
+            [
+              5.427385,
+              43.245075
+            ],
+            [
+              5.427435,
+              43.245142
+            ],
+            [
+              5.427368,
+              43.245169
+            ]
+          ]
+        ]
+      },
+      "id": "way/153554406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153570322",
+        "amenity": "fast_food",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.403231,
+              43.265626
+            ],
+            [
+              5.403254,
+              43.265568
+            ],
+            [
+              5.403272,
+              43.265528
+            ],
+            [
+              5.403358,
+              43.265555
+            ],
+            [
+              5.403363,
+              43.265557
+            ],
+            [
+              5.403385,
+              43.265591
+            ],
+            [
+              5.403348,
+              43.26566
+            ],
+            [
+              5.403231,
+              43.265626
+            ]
+          ]
+        ]
+      },
+      "id": "way/153570322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153574486",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "L'Erika",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.439757,
+              43.230732
+            ],
+            [
+              5.439771,
+              43.230715
+            ],
+            [
+              5.439803,
+              43.230709
+            ],
+            [
+              5.439838,
+              43.230715
+            ],
+            [
+              5.439865,
+              43.230721
+            ],
+            [
+              5.439888,
+              43.230745
+            ],
+            [
+              5.439887,
+              43.230767
+            ],
+            [
+              5.43984,
+              43.230774
+            ],
+            [
+              5.439804,
+              43.230767
+            ],
+            [
+              5.439757,
+              43.230732
+            ]
+          ]
+        ]
+      },
+      "id": "way/153574486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157774797",
+        "addr:city": "Marseille",
+        "addr:postcode": "13011",
+        "addr:street": "Avenue De Chardigny",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's La Valentine",
+        "phone": "+33491896500",
+        "ref:FR:SIRET": "50897050600020-ape 5610C",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.481532,
+              43.294483
+            ],
+            [
+              5.481483,
+              43.294452
+            ],
+            [
+              5.481697,
+              43.294268
+            ],
+            [
+              5.481725,
+              43.294283
+            ],
+            [
+              5.481748,
+              43.294261
+            ],
+            [
+              5.481859,
+              43.29433
+            ],
+            [
+              5.481837,
+              43.294352
+            ],
+            [
+              5.481865,
+              43.294369
+            ],
+            [
+              5.48165,
+              43.294555
+            ],
+            [
+              5.481635,
+              43.294546
+            ],
+            [
+              5.481568,
+              43.294603
+            ],
+            [
+              5.48166,
+              43.29466
+            ],
+            [
+              5.481581,
+              43.294727
+            ],
+            [
+              5.48149,
+              43.29467
+            ],
+            [
+              5.481507,
+              43.294656
+            ],
+            [
+              5.481405,
+              43.294592
+            ],
+            [
+              5.481532,
+              43.294483
+            ]
+          ]
+        ]
+      },
+      "id": "way/157774797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157777456",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "KFC",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.481372,
+              43.295837
+            ],
+            [
+              5.481397,
+              43.295808
+            ],
+            [
+              5.481413,
+              43.295791
+            ],
+            [
+              5.481462,
+              43.295735
+            ],
+            [
+              5.481478,
+              43.295718
+            ],
+            [
+              5.481532,
+              43.295658
+            ],
+            [
+              5.481526,
+              43.295655
+            ],
+            [
+              5.481549,
+              43.29563
+            ],
+            [
+              5.481584,
+              43.295646
+            ],
+            [
+              5.481579,
+              43.295651
+            ],
+            [
+              5.481604,
+              43.295662
+            ],
+            [
+              5.481721,
+              43.295718
+            ],
+            [
+              5.481618,
+              43.295833
+            ],
+            [
+              5.481603,
+              43.295826
+            ],
+            [
+              5.481571,
+              43.295862
+            ],
+            [
+              5.481553,
+              43.295854
+            ],
+            [
+              5.481509,
+              43.295902
+            ],
+            [
+              5.481372,
+              43.295837
+            ]
+          ]
+        ]
+      },
+      "id": "way/157777456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159386534",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Buvette Billoux",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3653882,
+              43.3323708
+            ],
+            [
+              5.3653984,
+              43.3323642
+            ],
+            [
+              5.3654068,
+              43.3323152
+            ],
+            [
+              5.3654014,
+              43.3323129
+            ],
+            [
+              5.3654145,
+              43.3323028
+            ],
+            [
+              5.3654452,
+              43.3323061
+            ],
+            [
+              5.3654572,
+              43.3323193
+            ],
+            [
+              5.3654469,
+              43.3323729
+            ],
+            [
+              5.3654251,
+              43.3323841
+            ],
+            [
+              5.3653991,
+              43.3323813
+            ],
+            [
+              5.3653882,
+              43.3323708
+            ]
+          ]
+        ]
+      },
+      "id": "way/159386534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159862735",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Quick",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.360085,
+              43.341264
+            ],
+            [
+              5.360118,
+              43.341217
+            ],
+            [
+              5.36014,
+              43.341226
+            ],
+            [
+              5.360206,
+              43.341132
+            ],
+            [
+              5.360212,
+              43.341135
+            ],
+            [
+              5.360271,
+              43.341052
+            ],
+            [
+              5.360413,
+              43.341106
+            ],
+            [
+              5.360334,
+              43.341217
+            ],
+            [
+              5.360288,
+              43.341284
+            ],
+            [
+              5.360223,
+              43.341259
+            ],
+            [
+              5.360217,
+              43.341257
+            ],
+            [
+              5.360185,
+              43.341302
+            ],
+            [
+              5.360085,
+              43.341264
+            ]
+          ]
+        ]
+      },
+      "id": "way/159862735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/178655330",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Le Chalet de la Cathédrale",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3661954,
+              43.3005285
+            ],
+            [
+              5.3661867,
+              43.3004973
+            ],
+            [
+              5.3662527,
+              43.3004875
+            ],
+            [
+              5.3662614,
+              43.3005186
+            ],
+            [
+              5.3661954,
+              43.3005285
+            ]
+          ]
+        ]
+      },
+      "id": "way/178655330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232882500",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_in": "yes",
+        "drive_through": "yes",
+        "name": "Quick",
+        "operator": "Quick",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4284035,
+              43.2783042
+            ],
+            [
+              5.4282605,
+              43.2783712
+            ],
+            [
+              5.4282325,
+              43.2783842
+            ],
+            [
+              5.4281985,
+              43.2783442
+            ],
+            [
+              5.4281715,
+              43.2783132
+            ],
+            [
+              5.4281265,
+              43.2782622
+            ],
+            [
+              5.4281095,
+              43.2782422
+            ],
+            [
+              5.4280835,
+              43.2782122
+            ],
+            [
+              5.4281565,
+              43.2781782
+            ],
+            [
+              5.4282562,
+              43.2781335
+            ],
+            [
+              5.4284035,
+              43.2783042
+            ]
+          ]
+        ]
+      },
+      "id": "way/232882500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312639895",
+        "amenity": "fast_food",
+        "building": "yes",
+        "contact:housenumber": "472",
+        "contact:street": "Chemin du Littoral",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3415559,
+              43.3509322
+            ],
+            [
+              5.3416467,
+              43.3508239
+            ],
+            [
+              5.3419958,
+              43.3509828
+            ],
+            [
+              5.3419022,
+              43.3510894
+            ],
+            [
+              5.3418467,
+              43.3510642
+            ],
+            [
+              5.3418391,
+              43.3510726
+            ],
+            [
+              5.3418198,
+              43.3510627
+            ],
+            [
+              5.341826,
+              43.3510553
+            ],
+            [
+              5.341724,
+              43.3510086
+            ],
+            [
+              5.341717,
+              43.3510157
+            ],
+            [
+              5.3416966,
+              43.3510062
+            ],
+            [
+              5.3417015,
+              43.3509982
+            ],
+            [
+              5.3415559,
+              43.3509322
+            ]
+          ]
+        ]
+      },
+      "id": "way/312639895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352442916",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "indoor": "yes",
+        "level": "0",
+        "operator": "McDonald's",
+        "room": "restaurant",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3800205,
+              43.3029343
+            ],
+            [
+              5.3798984,
+              43.3030671
+            ],
+            [
+              5.3799573,
+              43.3030976
+            ],
+            [
+              5.3798942,
+              43.3031633
+            ],
+            [
+              5.3798379,
+              43.3031297
+            ],
+            [
+              5.3798197,
+              43.3031471
+            ],
+            [
+              5.3797501,
+              43.3031095
+            ],
+            [
+              5.3798442,
+              43.3030144
+            ],
+            [
+              5.3799567,
+              43.3029008
+            ],
+            [
+              5.3800205,
+              43.3029343
+            ]
+          ]
+        ]
+      },
+      "id": "way/352442916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357312233",
+        "amenity": "fast_food",
+        "indoor": "yes",
+        "level": "0",
+        "name": "Meet&go",
+        "opening_hours": "Mo,Tu,Th-Sa 04:40-19:30, We 04:00-19:30, Su 05:20-19:30",
+        "room": "restaurant",
+        "source": "survey 2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3801039,
+              43.3030688
+            ],
+            [
+              5.3801647,
+              43.3030057
+            ],
+            [
+              5.3802933,
+              43.3030714
+            ],
+            [
+              5.3802325,
+              43.3031345
+            ],
+            [
+              5.3801039,
+              43.3030688
+            ]
+          ]
+        ]
+      },
+      "id": "way/357312233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/365053712",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "La Paill'hot",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4098272,
+              43.3417958
+            ],
+            [
+              5.4098087,
+              43.3416768
+            ],
+            [
+              5.4099366,
+              43.341666
+            ],
+            [
+              5.4099589,
+              43.341783
+            ],
+            [
+              5.4098272,
+              43.3417958
+            ]
+          ]
+        ]
+      },
+      "id": "way/365053712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/365094985",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Mister Jo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4101834,
+              43.33664
+            ],
+            [
+              5.4101826,
+              43.3366171
+            ],
+            [
+              5.4102091,
+              43.3366165
+            ],
+            [
+              5.4102454,
+              43.3366414
+            ],
+            [
+              5.4102427,
+              43.3366638
+            ],
+            [
+              5.4102114,
+              43.3366617
+            ],
+            [
+              5.4101834,
+              43.33664
+            ]
+          ]
+        ]
+      },
+      "id": "way/365094985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/387892846",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Snack Chez Napo",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3914864,
+              43.2729084
+            ],
+            [
+              5.3914528,
+              43.2728818
+            ],
+            [
+              5.3914909,
+              43.2728563
+            ],
+            [
+              5.3915245,
+              43.2728829
+            ],
+            [
+              5.3914864,
+              43.2729084
+            ]
+          ]
+        ]
+      },
+      "id": "way/387892846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500983567",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Snack"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3788609,
+              43.3044407
+            ],
+            [
+              5.378894,
+              43.3044063
+            ],
+            [
+              5.3789222,
+              43.3044216
+            ],
+            [
+              5.3788894,
+              43.304456
+            ],
+            [
+              5.3788609,
+              43.3044407
+            ]
+          ]
+        ]
+      },
+      "id": "way/500983567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/502866313",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Sandwichs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3665249,
+              43.2898102
+            ],
+            [
+              5.3665295,
+              43.2897931
+            ],
+            [
+              5.3665615,
+              43.2897973
+            ],
+            [
+              5.3665555,
+              43.2898137
+            ],
+            [
+              5.3665249,
+              43.2898102
+            ]
+          ]
+        ]
+      },
+      "id": "way/502866313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/384746116",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3808424,
+          43.2977
+        ]
+      },
+      "id": "node/384746116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469178354",
+        "addr:city": "Marseille",
+        "addr:housenumber": "122",
+        "addr:place": "Bonneveine",
+        "addr:postcode": "13008",
+        "addr:street": "Avenue de Hambourg",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "operator": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3897046,
+          43.2493005
+        ]
+      },
+      "id": "node/469178354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991811834",
+        "addr:housenumber": "49A",
+        "amenity": "fast_food",
+        "cuisine": "pasta",
+        "name": "Pasta Presto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3864643,
+          43.2935245
+        ]
+      },
+      "id": "node/991811834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1019229888",
+        "amenity": "fast_food",
+        "name": "KFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377061,
+          43.3415193
+        ]
+      },
+      "id": "node/1019229888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594599322",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "survey 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4011901,
+          43.3032281
+        ]
+      },
+      "id": "node/1594599322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594619859",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "KFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430197,
+          43.3290603
+        ]
+      },
+      "id": "node/1594619859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594619878",
+        "amenity": "fast_food",
+        "brand": "Quick",
+        "cuisine": "burger",
+        "name": "Quick",
+        "operator": "Quick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4333982,
+          43.3359052
+        ]
+      },
+      "id": "node/1594619878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594633520",
+        "amenity": "fast_food",
+        "cuisine": "kebab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3999839,
+          43.3068371
+        ]
+      },
+      "id": "node/1594633520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1628125189",
+        "amenity": "fast_food",
+        "operator": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.404779,
+          43.3168031
+        ]
+      },
+      "id": "node/1628125189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654556259",
+        "amenity": "fast_food",
+        "name": "Les Terrasses du Midi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4343679,
+          43.3416426
+        ]
+      },
+      "id": "node/1654556259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700027873",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Snack de l'Obélisque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4039742,
+          43.2508897
+        ]
+      },
+      "id": "node/1700027873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1813995048",
+        "amenity": "fast_food",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3833833,
+          43.2868117
+        ]
+      },
+      "id": "node/1813995048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814908612",
+        "amenity": "fast_food",
+        "name": "Kiosque Le calice",
+        "source": "Bing Sat + terrain",
+        "website": "http://www.le-calice.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4755869,
+          43.2899567
+        ]
+      },
+      "id": "node/1814908612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1816054011",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4008977,
+          43.2723076
+        ]
+      },
+      "id": "node/1816054011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1836600398",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Quick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837524,
+          43.2852434
+        ]
+      },
+      "id": "node/1836600398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1836601157",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "L'Authentique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3842071,
+          43.2862402
+        ]
+      },
+      "id": "node/1836601157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868854110",
+        "addr:city": "Marseille",
+        "addr:housenumber": "189",
+        "addr:street": "Rue Saint-Pierre",
+        "amenity": "fast_food",
+        "cuisine": "vietnamese",
+        "name": "Allo Nem",
+        "opening_hours": "Mo-Su 09:30-14:00, Mo-Su 18:00-22:00",
+        "phone": "+33 4 91 47 77 77",
+        "smoking": "no",
+        "website": "www.allonem.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3968153,
+          43.2924549
+        ]
+      },
+      "id": "node/1868854110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1870432820",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Le Luminyen",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4362905,
+          43.2314821
+        ]
+      },
+      "id": "node/1870432820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876120450",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4000153,
+          43.2954989
+        ]
+      },
+      "id": "node/1876120450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1879021232",
+        "amenity": "fast_food",
+        "name": "P29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3904629,
+          43.297113
+        ]
+      },
+      "id": "node/1879021232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933740918",
+        "addr:housenumber": "85",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Boulevard des Pizzas",
+        "website": "www.boulevarddespizzas.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3923594,
+          43.2954603
+        ]
+      },
+      "id": "node/1933740918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941618125",
+        "amenity": "fast_food",
+        "name": "Le pain gourmand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.376403,
+          43.296698
+        ]
+      },
+      "id": "node/1941618125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941648135",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "operator": "McDonald's",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37472,
+          43.29412
+        ]
+      },
+      "id": "node/1941648135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941847116",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "operator": "Restaurant Brands International",
+        "source": "https://fr.wikipedia.org/wiki/Restaurant_Brands_International",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3746017,
+          43.2951599
+        ]
+      },
+      "id": "node/1941847116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1961504677",
+        "amenity": "fast_food",
+        "name": "Snack du Lycée",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4254225,
+          43.2750586
+        ]
+      },
+      "id": "node/1961504677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1974107069",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "BBC Barbecue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4185126,
+          43.2797626
+        ]
+      },
+      "id": "node/1974107069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1974324482",
+        "addr:city": "Marseille",
+        "addr:housenumber": "10",
+        "addr:postcode": "13010",
+        "addr:street": "Boulevard Rouvier",
+        "amenity": "fast_food",
+        "cuisine": "vietnamese",
+        "name": "Thao",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4166099,
+          43.2792124
+        ]
+      },
+      "id": "node/1974324482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1982739667",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "L'Authentique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3752767,
+          43.2482843
+        ]
+      },
+      "id": "node/1982739667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715835",
+        "amenity": "fast_food",
+        "cuisine": "sandwich;pizza",
+        "name": "L'Auberge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3865161,
+          43.29394
+        ]
+      },
+      "id": "node/2010715835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715840",
+        "amenity": "fast_food",
+        "cuisine": "sandwich;kebab",
+        "drink": "yes",
+        "name": "L'étoile de la Plaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3863439,
+          43.2939812
+        ]
+      },
+      "id": "node/2010715840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010715845",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "La Pause"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384297,
+          43.2948977
+        ]
+      },
+      "id": "node/2010715845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016443141",
+        "amenity": "fast_food",
+        "name": "Pizza Cut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3850066,
+          43.2992301
+        ]
+      },
+      "id": "node/2016443141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024973916",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Rella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3830452,
+          43.2909185
+        ]
+      },
+      "id": "node/2024973916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2028106642",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Le Break"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.382846,
+          43.2954439
+        ]
+      },
+      "id": "node/2028106642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2028106647",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Snack des Lilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3860851,
+          43.293851
+        ]
+      },
+      "id": "node/2028106647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031102957",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3828364,
+          43.3051067
+        ]
+      },
+      "id": "node/2031102957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031102976",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3838556,
+          43.3055322
+        ]
+      },
+      "id": "node/2031102976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2036135674",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Snack de la Plaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3858615,
+          43.2936119
+        ]
+      },
+      "id": "node/2036135674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2039908808",
+        "addr:city": "Marseille",
+        "addr:postcode": "13006",
+        "addr:street": "Place Félix Baret",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "opening_hours": "07:00-23:30",
+        "operator": "McDonald's",
+        "phone": "+33 980520864",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.restaurants.mcdonalds.fr/mcdonalds-marseille-felix-baret#horaires-services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3796877,
+          43.2917541
+        ]
+      },
+      "id": "node/2039908808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2098586114",
+        "amenity": "fast_food",
+        "name": "Le Wich",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3988991,
+          43.2959289
+        ]
+      },
+      "id": "node/2098586114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120000020",
+        "amenity": "fast_food",
+        "name": "Il Cuoco",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3711833,
+          43.2995691
+        ]
+      },
+      "id": "node/2120000020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2123959864",
+        "addr:city": "Marseille",
+        "addr:housenumber": "124",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "fast_food",
+        "cuisine": "french",
+        "name": "Comme à la maison",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3936977,
+          43.29526
+        ]
+      },
+      "id": "node/2123959864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2123959867",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Pates fraiches et spécialités Moutte",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3919958,
+          43.2954342
+        ]
+      },
+      "id": "node/2123959867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2136336650",
+        "amenity": "fast_food",
+        "contact:phone": "+33 4 91 55 54 83",
+        "cuisine": "lebanese",
+        "name": "Mont Liban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3728546,
+          43.2918804
+        ]
+      },
+      "id": "node/2136336650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259960818",
+        "amenity": "fast_food",
+        "name": "repfood",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3676995,
+          43.3037981
+        ]
+      },
+      "id": "node/2259960818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259969913",
+        "amenity": "fast_food",
+        "name": "Brioche dorée",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3676516,
+          43.3045298
+        ]
+      },
+      "id": "node/2259969913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259969914",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "McDonald's",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3677623,
+          43.3044098
+        ]
+      },
+      "id": "node/2259969914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261190794",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3661466,
+          43.3055264
+        ]
+      },
+      "id": "node/2261190794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261440016",
+        "amenity": "fast_food",
+        "name": "Simply Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3673873,
+          43.3087607
+        ]
+      },
+      "id": "node/2261440016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261440017",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3675129,
+          43.3079994
+        ]
+      },
+      "id": "node/2261440017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299702758",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "cuisine": "burger",
+        "name": "Burger King Marseille La Valentine",
+        "operator": "Restaurant Brands International",
+        "source": "https://fr.wikipedia.org/wiki/Restaurant_Brands_International",
+        "website": "https://www.burgerking.fr/restaurants/q/marseille-la-valentine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4798778,
+          43.2899614
+        ]
+      },
+      "id": "node/2299702758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299768709",
+        "amenity": "fast_food",
+        "name": "Quick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3995708,
+          43.3311561
+        ]
+      },
+      "id": "node/2299768709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2300229087",
+        "amenity": "fast_food",
+        "name": "Quick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4793824,
+          43.2971956
+        ]
+      },
+      "id": "node/2300229087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2300232245",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3497301,
+          43.3644353
+        ]
+      },
+      "id": "node/2300232245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2300232246",
+        "amenity": "fast_food",
+        "fixme": "mauvais emplacement",
+        "name": "Quick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3499666,
+          43.3640625
+        ]
+      },
+      "id": "node/2300232246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301582909",
+        "amenity": "fast_food",
+        "name": "Quick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3878176,
+          43.3152895
+        ]
+      },
+      "id": "node/2301582909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2304264683",
+        "amenity": "fast_food",
+        "name": "Quick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3759956,
+          43.2550346
+        ]
+      },
+      "id": "node/2304264683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363311736",
+        "amenity": "fast_food",
+        "cuisine": "chicken;kebab;tacos",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "En Suisse",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3786947,
+          43.2965198
+        ]
+      },
+      "id": "node/2363311736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2373053208",
+        "amenity": "fast_food",
+        "name": "O'Pépé Café",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4105167,
+          43.3343929
+        ]
+      },
+      "id": "node/2373053208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375838294",
+        "amenity": "fast_food",
+        "cuisine": "sandwich;pizza",
+        "drink": "yes",
+        "name": "Snack Pizzeria Notre-Dame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3846071,
+          43.2919908
+        ]
+      },
+      "id": "node/2375838294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375892959",
+        "amenity": "fast_food",
+        "cuisine": "pasta",
+        "name": "Pasta Basta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3738533,
+          43.2930049
+        ]
+      },
+      "id": "node/2375892959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375892963",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "À la minute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3737946,
+          43.2929922
+        ]
+      },
+      "id": "node/2375892963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379123237",
+        "amenity": "fast_food",
+        "name": "Hallal Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3845544,
+          43.2915634
+        ]
+      },
+      "id": "node/2379123237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2589492139",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Chez Bibou",
+        "phone": "+33 6 21 45 59 69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4374957,
+          43.3093964
+        ]
+      },
+      "id": "node/2589492139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2691453043",
+        "amenity": "fast_food",
+        "name": "Le kiosque d'Arvieux",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3677354,
+          43.3061525
+        ]
+      },
+      "id": "node/2691453043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3016427500",
+        "addr:city": "Marseille",
+        "addr:postcode": "13012",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4427001,
+          43.2955203
+        ]
+      },
+      "id": "node/3016427500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3157091701",
+        "amenity": "fast_food",
+        "name": "Cafétéria",
+        "website": "http://www.crous-aix-marseille.fr/logement/cites-et-residences-universitaires/marseille/cafeteria-luminy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439675,
+          43.2306094
+        ]
+      },
+      "id": "node/3157091701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3207950141",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "source": "survey 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4004576,
+          43.3028125
+        ]
+      },
+      "id": "node/3207950141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3440661145",
+        "amenity": "fast_food",
+        "cuisine": "bruschettas",
+        "name": "Brusch & Food",
+        "opening_hours": "Livre midi et soir en semaine, seulement le soir les samedi et dimanche. Compter environ 45 minutes pour la livraisons des bruschettas",
+        "phone": "+33 4 91 43 80 88",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4055892,
+          43.3071352
+        ]
+      },
+      "id": "node/3440661145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3440710641",
+        "amenity": "fast_food",
+        "cuisine": "lebanese",
+        "delivery": "yes",
+        "name": "LIbanexpress",
+        "note": "Compter environ 45 minutes pour la livraison des spécialités libanaises.",
+        "phone": "+33 4 91 40 50 00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4030215,
+          43.3075158
+        ]
+      },
+      "id": "node/3440710641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3441154294",
+        "amenity": "fast_food",
+        "cuisine": "pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4022164,
+          43.3078228
+        ]
+      },
+      "id": "node/3441154294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3442822194",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Ritheje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4035,
+          43.3033468
+        ]
+      },
+      "id": "node/3442822194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3539250759",
+        "amenity": "fast_food",
+        "name": "Fastfood Wadness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3690001,
+          43.3191068
+        ]
+      },
+      "id": "node/3539250759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634114925",
+        "amenity": "fast_food",
+        "level": "1",
+        "name": "Quick",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3487184,
+          43.3635662
+        ]
+      },
+      "id": "node/3634114925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634331459",
+        "amenity": "fast_food",
+        "level": "0",
+        "name": "Burger king",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.347223,
+          43.3633969
+        ]
+      },
+      "id": "node/3634331459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634337406",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "level": "0",
+        "name": "Brioche dorée",
+        "note": "Un Brioche dorée par niveau",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3496031,
+          43.3640804
+        ]
+      },
+      "id": "node/3634337406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634337407",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "level": "1",
+        "name": "Brioche dorée",
+        "note": "Un Brioche dorée par niveau",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3495811,
+          43.3640304
+        ]
+      },
+      "id": "node/3634337407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634375256",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "level": "0",
+        "name": "McDonald's",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3502178,
+          43.3638224
+        ]
+      },
+      "id": "node/3634375256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634375257",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "level": "0",
+        "name": "Paul",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3501578,
+          43.3641273
+        ]
+      },
+      "id": "node/3634375257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636748076",
+        "addr:city": "Marseille",
+        "addr:housenumber": "7",
+        "addr:postcode": "13001",
+        "addr:street": "Quai de Rive Neuve",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "note": "Café suspendu",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3726588,
+          43.2935634
+        ]
+      },
+      "id": "node/3636748076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3647443693",
+        "amenity": "fast_food",
+        "name": "L'Apple Chef",
+        "outdoor_seating": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3724404,
+          43.3092347
+        ]
+      },
+      "id": "node/3647443693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3756217302",
+        "amenity": "fast_food",
+        "name": "Chiken Bawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3573654,
+          43.3808403
+        ]
+      },
+      "id": "node/3756217302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3779480026",
+        "amenity": "fast_food",
+        "name": "Snack Nassou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4277788,
+          43.3313378
+        ]
+      },
+      "id": "node/3779480026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3780623740",
+        "amenity": "fast_food",
+        "name": "New Pacha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4270695,
+          43.3290543
+        ]
+      },
+      "id": "node/3780623740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3799422451",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4807266,
+          43.2856795
+        ]
+      },
+      "id": "node/3799422451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822613283",
+        "amenity": "fast_food",
+        "name": "Le Chicken",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3592607,
+          43.3470886
+        ]
+      },
+      "id": "node/3822613283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822613296",
+        "amenity": "fast_food",
+        "name": "The Wallak Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3590576,
+          43.3464017
+        ]
+      },
+      "id": "node/3822613296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830903288",
+        "amenity": "fast_food",
+        "name": "Snack El Baraka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3626294,
+          43.3372704
+        ]
+      },
+      "id": "node/3830903288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830903301",
+        "amenity": "fast_food",
+        "operator": "Del Capo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3628212,
+          43.3366783
+        ]
+      },
+      "id": "node/3830903301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3838708345",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4060137,
+          43.3178435
+        ]
+      },
+      "id": "node/3838708345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3852182306",
+        "amenity": "fast_food",
+        "name": "Mak Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.434172,
+          43.3279913
+        ]
+      },
+      "id": "node/3852182306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3933514609",
+        "amenity": "fast_food",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4373896,
+          43.2888222
+        ]
+      },
+      "id": "node/3933514609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3943757691",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4435977,
+          43.2955826
+        ]
+      },
+      "id": "node/3943757691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992084770",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Le Snack de Michelis",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4427962,
+          43.2856839
+        ]
+      },
+      "id": "node/3992084770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992084776",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Sandwicherie",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4346566,
+          43.2836162
+        ]
+      },
+      "id": "node/3992084776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992084922",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4426429,
+          43.2854649
+        ]
+      },
+      "id": "node/3992084922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992084925",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "source": "terrain",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4425389,
+          43.2856233
+        ]
+      },
+      "id": "node/3992084925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4016684179",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "name": "Ctazy Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4282222,
+          43.2713152
+        ]
+      },
+      "id": "node/4016684179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4029767451",
+        "addr:city": "Marseille",
+        "addr:housenumber": "5",
+        "addr:postcode": "13006",
+        "addr:street": "Place Paul Cézanne",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Un mexicain",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/unmexicainamarseille/?fref=ts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3832396,
+          43.2926961
+        ]
+      },
+      "id": "node/4029767451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4073589386",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "source": "survey 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3674917,
+          43.3041693
+        ]
+      },
+      "id": "node/4073589386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087718755",
+        "amenity": "fast_food",
+        "name": "La Fringale",
+        "source": "survey 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4002235,
+          43.2898012
+        ]
+      },
+      "id": "node/4087718755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4109316467",
+        "amenity": "fast_food",
+        "name": "Le Calice",
+        "outdoor_seating": "yes",
+        "source": "knowledge 2016",
+        "takeaway": "yes",
+        "website": "http://le-calice.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3872181,
+          43.283838
+        ]
+      },
+      "id": "node/4109316467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4235064869",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4036184,
+          43.2690536
+        ]
+      },
+      "id": "node/4235064869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244912186",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4200869,
+          43.2567384
+        ]
+      },
+      "id": "node/4244912186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4248739358",
+        "amenity": "fast_food",
+        "cuisine": "tacos",
+        "name": "O'Tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3814724,
+          43.2908
+        ]
+      },
+      "id": "node/4248739358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258769428",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4000913,
+          43.3355177
+        ]
+      },
+      "id": "node/4258769428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4290912638",
+        "amenity": "fast_food",
+        "name": "Le Vélodrome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3969527,
+          43.267262
+        ]
+      },
+      "id": "node/4290912638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315409671",
+        "amenity": "fast_food",
+        "diet:vegetarian": "only",
+        "name": "Green Bear Coffee",
+        "opening_hours": "Mo-Fr11:00-15:30",
+        "organic": "only",
+        "outdoor_seating": "yes",
+        "phone": "+33 4 91 04 06 91",
+        "takeaway": "yes",
+        "website": "http://www.greenbearcoffee.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3751796,
+          43.2934386
+        ]
+      },
+      "id": "node/4315409671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315661800",
+        "amenity": "fast_food",
+        "name": "Le Belge Sur Le Pouce",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3668219,
+          43.3029568
+        ]
+      },
+      "id": "node/4315661800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4360706145",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4199866,
+          43.256749
+        ]
+      },
+      "id": "node/4360706145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374904520",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "KFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3823504,
+          43.317242
+        ]
+      },
+      "id": "node/4374904520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393392839",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pasta Presto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3716196,
+          43.3089838
+        ]
+      },
+      "id": "node/4393392839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393393264",
+        "amenity": "fast_food",
+        "name": "chickenville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3735035,
+          43.3069498
+        ]
+      },
+      "id": "node/4393393264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959278",
+        "amenity": "fast_food",
+        "name": "Restaurant-Snack Anatolie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3848195,
+          43.299201
+        ]
+      },
+      "id": "node/4405959278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959294",
+        "amenity": "fast_food",
+        "name": "Chicken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3824801,
+          43.2992994
+        ]
+      },
+      "id": "node/4405959294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959296",
+        "amenity": "fast_food",
+        "name": "Flach Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3821375,
+          43.2993304
+        ]
+      },
+      "id": "node/4405959296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405959301",
+        "amenity": "fast_food",
+        "name": "Petit Luchon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3813981,
+          43.2993701
+        ]
+      },
+      "id": "node/4405959301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430401479",
+        "amenity": "fast_food",
+        "name": "Pizzeria Low Cost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3831883,
+          43.3074122
+        ]
+      },
+      "id": "node/4430401479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430509401",
+        "addr:city": "Marseille",
+        "addr:housenumber": "84",
+        "addr:postcode": "13003",
+        "addr:street": "Boulevard National",
+        "amenity": "fast_food",
+        "cuisine": "döner_pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3833163,
+          43.3063849
+        ]
+      },
+      "id": "node/4430509401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4475981239",
+        "amenity": "fast_food",
+        "name": "Pizza 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3882046,
+          43.3011936
+        ]
+      },
+      "id": "node/4475981239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502532513",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Charly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3793979,
+          43.2964567
+        ]
+      },
+      "id": "node/4502532513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502532514",
+        "amenity": "fast_food",
+        "cuisine": "pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3792692,
+          43.2964675
+        ]
+      },
+      "id": "node/4502532514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560696390",
+        "amenity": "fast_food",
+        "food": "crêpe",
+        "name": "L'Élephant Rose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384605,
+          43.2944477
+        ]
+      },
+      "id": "node/4560696390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580200379",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "level": "0",
+        "name": "Pizzeria Jeff",
+        "source": "plan de la galerie marchande",
+        "source:date": "2016-12-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4227573,
+          43.2532235
+        ]
+      },
+      "id": "node/4580200379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698582137",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "pizza franceschi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4055252,
+          43.268287
+        ]
+      },
+      "id": "node/4698582137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713564666",
+        "amenity": "fast_food",
+        "name": "Snack Seksabil",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807592,
+          43.2983539
+        ]
+      },
+      "id": "node/4713564666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713564947",
+        "amenity": "fast_food",
+        "name": "Istanbul",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807089,
+          43.2987978
+        ]
+      },
+      "id": "node/4713564947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713599097",
+        "amenity": "fast_food",
+        "name": "Pitchou's",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3810217,
+          43.2995941
+        ]
+      },
+      "id": "node/4713599097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713607736",
+        "amenity": "fast_food",
+        "name": "Snack L'escale",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380531,
+          43.3001698
+        ]
+      },
+      "id": "node/4713607736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4763675758",
+        "amenity": "fast_food",
+        "name": "Kiosque Les Sauvages",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3695643,
+          43.3348305
+        ]
+      },
+      "id": "node/4763675758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4792787821",
+        "addr:housenumber": "28",
+        "addr:postcode": "13002",
+        "addr:street": "Rue de la Bonneterie",
+        "amenity": "fast_food",
+        "name": "Chez Fanny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3716452,
+          43.2976345
+        ]
+      },
+      "id": "node/4792787821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4816435921",
+        "addr:housenumber": "29",
+        "addr:postcode": "13007",
+        "addr:street": "Boulevard de la Corderie",
+        "amenity": "fast_food",
+        "internet_access": "wlan",
+        "name": "Moon burger",
+        "name:fr": "Moon burger",
+        "opening_hours": "Mo-Fr 11:30-23:00; Sa 19:00-23:00",
+        "phone": "+33491017486",
+        "website": "https://www.moonburger.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698426,
+          43.290313
+        ]
+      },
+      "id": "node/4816435921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4845823352",
+        "amenity": "fast_food",
+        "name": "L'Atelier d'Audrey",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4258167,
+          43.3078542
+        ]
+      },
+      "id": "node/4845823352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882142431",
+        "amenity": "fast_food",
+        "name": "Marrou",
+        "opening_hours": "Mo-Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3874853,
+          43.2704628
+        ]
+      },
+      "id": "node/4882142431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882143035",
+        "amenity": "fast_food",
+        "name": "Le coin chaud",
+        "name:fr": "Le coin chaud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3876704,
+          43.2704571
+        ]
+      },
+      "id": "node/4882143035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932256306",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3794428,
+          43.3022535
+        ]
+      },
+      "id": "node/4932256306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4987095065",
+        "amenity": "fast_food",
+        "cuisine": "pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5100955,
+          43.301124
+        ]
+      },
+      "id": "node/4987095065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4988384043",
+        "amenity": "fast_food",
+        "name": "New Macy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.479599,
+          43.2857206
+        ]
+      },
+      "id": "node/4988384043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044501283",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Palama Pizza",
+        "source": "survey",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439515,
+          43.3567951
+        ]
+      },
+      "id": "node/5044501283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075502589",
+        "amenity": "fast_food",
+        "name": "Sur le Pouce",
+        "outdoor_seating": "yes",
+        "phone": "+33 7 81 99 59 20",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4392829,
+          43.3437076
+        ]
+      },
+      "id": "node/5075502589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119639617",
+        "amenity": "fast_food",
+        "delivery": "no",
+        "drive_through": "no",
+        "opening_hours": "vacant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3806202,
+          43.2942092
+        ]
+      },
+      "id": "node/5119639617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5148076773",
+        "amenity": "fast_food",
+        "drive_through": "no",
+        "name": "Royal Food",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3912811,
+          43.2733105
+        ]
+      },
+      "id": "node/5148076773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5148076774",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "drive_through": "no",
+        "name": "Sri Krishna",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3912636,
+          43.2733454
+        ]
+      },
+      "id": "node/5148076774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5148076776",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Subway",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3912251,
+          43.2734236
+        ]
+      },
+      "id": "node/5148076776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150017784",
+        "amenity": "fast_food",
+        "name": "Hollywood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374169,
+          43.3025316
+        ]
+      },
+      "id": "node/5150017784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181596458",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Le Delice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430084,
+          43.282372
+        ]
+      },
+      "id": "node/5181596458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5193941537",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Kebab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3739194,
+          43.2968084
+        ]
+      },
+      "id": "node/5193941537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202084892",
+        "amenity": "fast_food",
+        "name": "Happy Fine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3729436,
+          43.2979915
+        ]
+      },
+      "id": "node/5202084892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202084894",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "name": "Khan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373026,
+          43.297894
+        ]
+      },
+      "id": "node/5202084894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202099500",
+        "amenity": "fast_food",
+        "cuisine": "salades",
+        "name": "Saladbar Green Is Better"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3726509,
+          43.2983614
+        ]
+      },
+      "id": "node/5202099500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265382922",
+        "amenity": "fast_food",
+        "name": "Snack Hanane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3735688,
+          43.2995952
+        ]
+      },
+      "id": "node/5265382922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265400421",
+        "amenity": "fast_food",
+        "name": "El Yasmine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3736503,
+          43.2993803
+        ]
+      },
+      "id": "node/5265400421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265778668",
+        "addr:city": "La Valentine",
+        "addr:postcode": "13011",
+        "addr:street": "Route de la Sablière, centre commercial Géant Casino",
+        "amenity": "fast_food",
+        "contact:phone": "+33 4 91 89 01 73",
+        "contact:website": "http://www.columbuscafe.com",
+        "cuisine": "Café;Thé;Boissons;snackbar;pâtisserie",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Columbus Café & Co",
+        "ref:FR:NAF": "5610C",
+        "ref:FR:SIRET": "80482337500022",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4776311,
+          43.2949927
+        ]
+      },
+      "id": "node/5265778668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5310105022",
+        "amenity": "fast_food",
+        "name:it": "Da Zio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3741677,
+          43.2933865
+        ]
+      },
+      "id": "node/5310105022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5405765489",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "L'Ylios",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3375279,
+          43.3570676
+        ]
+      },
+      "id": "node/5405765489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5405765490",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Dubble",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3373883,
+          43.358876
+        ]
+      },
+      "id": "node/5405765490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5405765498",
+        "addr:housenumber": "514",
+        "amenity": "fast_food",
+        "drive_through": "no",
+        "name": "Spok",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3390752,
+          43.3521939
+        ]
+      },
+      "id": "node/5405765498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5424418336",
+        "amenity": "fast_food",
+        "diet:vegan": "only",
+        "name": "VEj Vegan Street Food",
+        "opening_hours": "Mo-Fr 09:30-16:30",
+        "website": "https://www.vejveganstreetfood.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3796057,
+          43.2897955
+        ]
+      },
+      "id": "node/5424418336"
+    }
+  ]
+}

@@ -1,0 +1,2872 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-20T12:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68943391",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Caféteria du C.R.O.U.S.",
+        "operator": "CROUS",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3776811,
+              43.3052295
+            ],
+            [
+              5.3778695,
+              43.3053222
+            ],
+            [
+              5.377806,
+              43.3053897
+            ],
+            [
+              5.3776186,
+              43.3052979
+            ],
+            [
+              5.3776811,
+              43.3052295
+            ]
+          ]
+        ]
+      },
+      "id": "way/68943391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68967242",
+        "addr:city": "Marseille",
+        "addr:housenumber": "51",
+        "addr:postcode": "13005",
+        "addr:street": "Rue Brandis",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Bar du Téléphone",
+        "outdoor_seating": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3949621,
+              43.2858323
+            ],
+            [
+              5.3950749,
+              43.2858481
+            ],
+            [
+              5.395075,
+              43.2858505
+            ],
+            [
+              5.3951515,
+              43.2858616
+            ],
+            [
+              5.3951539,
+              43.2858926
+            ],
+            [
+              5.3951388,
+              43.2859248
+            ],
+            [
+              5.3949473,
+              43.2858983
+            ],
+            [
+              5.3949621,
+              43.2858323
+            ]
+          ]
+        ]
+      },
+      "id": "way/68967242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68986464",
+        "addr:city": "Marseille",
+        "addr:housenumber": "7",
+        "addr:postcode": "13004",
+        "addr:street": "Boulevard d'Arras",
+        "amenity": "cafe",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4012519,
+              43.3096255
+            ],
+            [
+              5.4013675,
+              43.3096005
+            ],
+            [
+              5.4013819,
+              43.309636
+            ],
+            [
+              5.4013967,
+              43.3096724
+            ],
+            [
+              5.4011957,
+              43.3097162
+            ],
+            [
+              5.4011876,
+              43.3096996
+            ],
+            [
+              5.401177,
+              43.3096749
+            ],
+            [
+              5.4011649,
+              43.3096444
+            ],
+            [
+              5.4012519,
+              43.3096255
+            ]
+          ]
+        ]
+      },
+      "id": "way/68986464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69135122",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Café Suspendu - Café de Paris",
+        "note": "Café suspendu ",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3830572,
+              43.2859266
+            ],
+            [
+              5.382902,
+              43.2858788
+            ],
+            [
+              5.3829404,
+              43.2858152
+            ],
+            [
+              5.3829523,
+              43.2858192
+            ],
+            [
+              5.3830954,
+              43.285863
+            ],
+            [
+              5.3830572,
+              43.2859266
+            ]
+          ]
+        ]
+      },
+      "id": "way/69135122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69631261",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Bar du Régali",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.328469,
+              43.36029
+            ],
+            [
+              5.3286257,
+              43.3602413
+            ],
+            [
+              5.3286793,
+              43.3603351
+            ],
+            [
+              5.3286239,
+              43.360351
+            ],
+            [
+              5.3286279,
+              43.3603639
+            ],
+            [
+              5.3285239,
+              43.3603916
+            ],
+            [
+              5.328469,
+              43.36029
+            ]
+          ]
+        ]
+      },
+      "id": "way/69631261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154227767",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "french",
+        "fax": "+33 4 91 73 20 54",
+        "name": "Bar Restaurant de La Grotte",
+        "outdoor_seating": "yes",
+        "phone": "+33 4 91 73 17 79",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "website": "http://www.lagrotte-13.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3541022,
+              43.2128097
+            ],
+            [
+              5.3541411,
+              43.2127849
+            ],
+            [
+              5.3541671,
+              43.2127683
+            ],
+            [
+              5.3542698,
+              43.2128581
+            ],
+            [
+              5.3542004,
+              43.2129013
+            ],
+            [
+              5.3541301,
+              43.2128437
+            ],
+            [
+              5.3540978,
+              43.2128126
+            ],
+            [
+              5.3541022,
+              43.2128097
+            ]
+          ]
+        ]
+      },
+      "id": "way/154227767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159902104",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Café de la Gare",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.356651,
+              43.370415
+            ],
+            [
+              5.356637,
+              43.370415
+            ],
+            [
+              5.356484,
+              43.370416
+            ],
+            [
+              5.356484,
+              43.37041
+            ],
+            [
+              5.356484,
+              43.370336
+            ],
+            [
+              5.356579,
+              43.370336
+            ],
+            [
+              5.35665,
+              43.370336
+            ],
+            [
+              5.356651,
+              43.370415
+            ]
+          ]
+        ]
+      },
+      "id": "way/159902104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352447634",
+        "amenity": "cafe",
+        "indoor": "yes",
+        "level": "0",
+        "name": "Espressamente illy",
+        "opening_hours": "Mo-Sa 05:15-19:30, Su,PH 06:00-19:30",
+        "room": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3803809,
+              43.3028549
+            ],
+            [
+              5.3804363,
+              43.3027993
+            ],
+            [
+              5.3805013,
+              43.3028335
+            ],
+            [
+              5.3804458,
+              43.3028892
+            ],
+            [
+              5.3803809,
+              43.3028549
+            ]
+          ]
+        ]
+      },
+      "id": "way/352447634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416720264",
+        "amenity": "cafe",
+        "level": "0",
+        "mapillary": "JHTcCMqD7M1RBDpirYK6Fg",
+        "name": "Phileas",
+        "opening_hours": "Mo-Sa 06:30-20:50, Su 07:00-20:50",
+        "room": "restaurant",
+        "source": "Mapillary 2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.3807686,
+              43.3025346
+            ],
+            [
+              5.3808563,
+              43.3024464
+            ],
+            [
+              5.3809049,
+              43.3024728
+            ],
+            [
+              5.3808165,
+              43.3025603
+            ],
+            [
+              5.3807686,
+              43.3025346
+            ]
+          ]
+        ]
+      },
+      "id": "way/416720264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/627616770",
+        "amenity": "cafe",
+        "name": "Le Royale",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4078362,
+          43.3389734
+        ]
+      },
+      "id": "node/627616770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/658342572",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3749504,
+          43.2959459
+        ]
+      },
+      "id": "node/658342572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738499750",
+        "amenity": "cafe",
+        "name": "Le Petit Nice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3858843,
+          43.2954384
+        ]
+      },
+      "id": "node/738499750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997670271",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "gambling": "lottery",
+        "name": "Le Vieux Port",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3748619,
+          43.294323
+        ]
+      },
+      "id": "node/997670271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997670284",
+        "addr:country": "FR",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "food": "yes",
+        "name": "Les Délices du Vieux Port",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374618,
+          43.2934709
+        ]
+      },
+      "id": "node/997670284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1005302996",
+        "amenity": "cafe",
+        "name": "La Samaritaine",
+        "website": "http://www.la-samaritaine-marseille.fr/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3738586,
+          43.296329
+        ]
+      },
+      "id": "node/1005302996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1102602125",
+        "amenity": "cafe",
+        "name": "O'Nuage d'Orient"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3871623,
+          43.2938735
+        ]
+      },
+      "id": "node/1102602125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1126758496",
+        "amenity": "cafe",
+        "gambling": "lottery",
+        "name": "Le Café-Barok",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3850566,
+          43.2850614
+        ]
+      },
+      "id": "node/1126758496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1240848992",
+        "amenity": "cafe",
+        "name": "L'Alcazar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3761364,
+          43.2988631
+        ]
+      },
+      "id": "node/1240848992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1290701107",
+        "addr:city": "Marseille",
+        "addr:housenumber": "173",
+        "addr:postcode": "13005",
+        "addr:street": "Boulevard Chave",
+        "amenity": "cafe",
+        "name": "L'entretemps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3967667,
+          43.2957165
+        ]
+      },
+      "id": "node/1290701107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1354779048",
+        "amenity": "cafe",
+        "name": "Le Skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3789113,
+          43.2616819
+        ]
+      },
+      "id": "node/1354779048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1355099516",
+        "addr:city": "Marseille",
+        "addr:housenumber": "11",
+        "addr:postcode": "13001",
+        "addr:street": "Quai de Rive Neuve",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Havana cafe",
+        "note": "Happy Hours: 18h- 22h ",
+        "opening_hours": "Nov-Feb Tu,Th 15:00-23:45; Nov-Feb We,Fr 00:00-02:00,15:00-02:00; Nov-Feb Sa 15:00-02:00; Mar-Oct Mo,Tu 08:00-03:00; Mar-Oct We,Fr 08:00-23:45; Mar-Oct Th,Su 00:00-03:00,08:00-03:00; Mar-Oct Sa 00:00-03:00,08:00-23:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3712734,
+          43.2931548
+        ]
+      },
+      "id": "node/1355099516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594633518",
+        "addr:city": "Marseille",
+        "addr:housenumber": "122",
+        "addr:postcode": "13004",
+        "addr:street": "Avenue des Chartreux",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3997934,
+          43.3066986
+        ]
+      },
+      "id": "node/1594633518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1640858762",
+        "amenity": "cafe",
+        "name": "Les Danaïdes - Café Suspendu",
+        "note": "Café Suspendu ",
+        "website": "http://www.lesdanaides.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3857229,
+          43.2996598
+        ]
+      },
+      "id": "node/1640858762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822938981",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3566093,
+          43.2859547
+        ]
+      },
+      "id": "node/1822938981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822939013",
+        "amenity": "cafe",
+        "name": "Le Saint-Eugène"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3583179,
+          43.2844972
+        ]
+      },
+      "id": "node/1822939013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1829470160",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3775188,
+          43.308632
+        ]
+      },
+      "id": "node/1829470160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1846539363",
+        "amenity": "cafe",
+        "name": "La Royale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.385609,
+          43.286592
+        ]
+      },
+      "id": "node/1846539363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1871283589",
+        "amenity": "cafe",
+        "name": "Le Bistroquet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3909312,
+          43.2959112
+        ]
+      },
+      "id": "node/1871283589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1871316006",
+        "amenity": "cafe",
+        "name": "Le Paoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3908829,
+          43.2964149
+        ]
+      },
+      "id": "node/1871316006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1879017442",
+        "amenity": "cafe",
+        "name": "Le dernier métro",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3906124,
+          43.2953607
+        ]
+      },
+      "id": "node/1879017442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1918948546",
+        "amenity": "cafe",
+        "name": "Bar de la Place",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3430485,
+          43.3566848
+        ]
+      },
+      "id": "node/1918948546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1938674920",
+        "amenity": "cafe",
+        "name": "Caffè di Roma",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3791263,
+          43.3035599
+        ]
+      },
+      "id": "node/1938674920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1942085553",
+        "addr:housenumber": "23",
+        "addr:street": "Avenue de la Pointe Rouge",
+        "amenity": "cafe",
+        "name": "Bar des Amis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3752655,
+          43.2481381
+        ]
+      },
+      "id": "node/1942085553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1982739668",
+        "amenity": "cafe",
+        "gambling": "lottery;betting",
+        "name": "Le Flint",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3752678,
+          43.2484613
+        ]
+      },
+      "id": "node/1982739668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014136656",
+        "amenity": "cafe",
+        "name": "La Strada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3699563,
+          43.2430571
+        ]
+      },
+      "id": "node/2014136656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016443124",
+        "amenity": "cafe",
+        "name": "Bar Odéon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3848943,
+          43.2991927
+        ]
+      },
+      "id": "node/2016443124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016443150",
+        "amenity": "cafe",
+        "gambling": "lottery;betting",
+        "name": "Le Laetitia",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3834529,
+          43.3009865
+        ]
+      },
+      "id": "node/2016443150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019893911",
+        "amenity": "cafe",
+        "name": "Café Baille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3860937,
+          43.2867294
+        ]
+      },
+      "id": "node/2019893911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024973912",
+        "amenity": "cafe",
+        "gambling": "betting",
+        "name": "Le Nouryad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3834518,
+          43.2925777
+        ]
+      },
+      "id": "node/2024973912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024973913",
+        "amenity": "cafe",
+        "name": "Le Rallye",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3830033,
+          43.2909941
+        ]
+      },
+      "id": "node/2024973913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024973914",
+        "amenity": "cafe",
+        "gambling": "lottery",
+        "name": "Le Saint-Julien",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3830569,
+          43.2923644
+        ]
+      },
+      "id": "node/2024973914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2028106643",
+        "amenity": "cafe",
+        "food": "yes",
+        "name": "Le Jean Jaurès"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3855492,
+          43.294583
+        ]
+      },
+      "id": "node/2028106643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2083639541",
+        "amenity": "cafe",
+        "name": "Brasserie de la Vierge dorée"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383216,
+          43.302021
+        ]
+      },
+      "id": "node/2083639541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2241170387",
+        "amenity": "cafe",
+        "name": "Le Panier Marseillais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3680658,
+          43.2997752
+        ]
+      },
+      "id": "node/2241170387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259960341",
+        "amenity": "cafe",
+        "name": "Café de la République",
+        "source": "survey 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3677142,
+          43.3038343
+        ]
+      },
+      "id": "node/2259960341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288804745",
+        "alt_name": "Snack Le Vallier",
+        "amenity": "cafe",
+        "name": "Resto Le Vallier",
+        "source": "survey 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4014567,
+          43.3004026
+        ]
+      },
+      "id": "node/2288804745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2323100875",
+        "amenity": "cafe",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3464169,
+          43.3665839
+        ]
+      },
+      "id": "node/2323100875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352033227",
+        "amenity": "cafe",
+        "name": "Le Môle - Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3616204,
+          43.2954115
+        ]
+      },
+      "id": "node/2352033227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352476918",
+        "amenity": "cafe",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4149918,
+          43.2659264
+        ]
+      },
+      "id": "node/2352476918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2360987806",
+        "amenity": "cafe",
+        "name": "Le Balto",
+        "source": "survey 2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3793727,
+          43.3019041
+        ]
+      },
+      "id": "node/2360987806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2365950578",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3606732,
+          43.2968213
+        ]
+      },
+      "id": "node/2365950578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368452175",
+        "amenity": "cafe",
+        "name": "Bar 13",
+        "old_name": "Bar Nabé",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3805829,
+          43.2998488
+        ]
+      },
+      "id": "node/2368452175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368452184",
+        "amenity": "cafe",
+        "name": "Bar Tabac La Française",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3782655,
+          43.2996825
+        ]
+      },
+      "id": "node/2368452184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368452189",
+        "amenity": "cafe",
+        "name": "Bar des Cinq Parties du Monde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3760889,
+          43.2990007
+        ]
+      },
+      "id": "node/2368452189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368671374",
+        "amenity": "cafe",
+        "name": "Café Borély",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3825383,
+          43.257186
+        ]
+      },
+      "id": "node/2368671374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368671376",
+        "amenity": "cafe",
+        "name": "L'écomotive - Café Suspendu",
+        "note": "Café Suspendu",
+        "organic": "only",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807815,
+          43.3013723
+        ]
+      },
+      "id": "node/2368671376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368671618",
+        "amenity": "cafe",
+        "name": "La Buvette du Lac",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.381895,
+          43.2610657
+        ]
+      },
+      "id": "node/2368671618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375838290",
+        "amenity": "cafe",
+        "name": "Le Bar du Marché"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3844335,
+          43.2920621
+        ]
+      },
+      "id": "node/2375838290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375838291",
+        "amenity": "cafe",
+        "name": "Le Petit Montmartre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3845328,
+          43.2920212
+        ]
+      },
+      "id": "node/2375838291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459834257",
+        "amenity": "cafe",
+        "drink:tea": "served",
+        "name": "Teavora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3895409,
+          43.3020893
+        ]
+      },
+      "id": "node/2459834257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511318240",
+        "amenity": "cafe",
+        "name": "Café Le numéro 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3800664,
+          43.2962827
+        ]
+      },
+      "id": "node/2511318240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511318284",
+        "addr:city": "Marseille",
+        "addr:postcode": "13001",
+        "amenity": "cafe",
+        "name": "Café Prinder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3796589,
+          43.2965774
+        ]
+      },
+      "id": "node/2511318284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511318305",
+        "addr:city": "Marseille",
+        "addr:housenumber": "7",
+        "addr:postcode": "13001",
+        "addr:street": "Place du Marché des Capucins",
+        "amenity": "cafe",
+        "name": "Pâtisserie orientale / café le Rif",
+        "name:oc": "Pastissariá orientala / Er-Rif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3800637,
+          43.2965787
+        ]
+      },
+      "id": "node/2511318305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511318311",
+        "addr:city": "Marseille",
+        "addr:housenumber": "5",
+        "addr:postcode": "13001",
+        "addr:street": "Place du Marché des Capucins",
+        "amenity": "cafe",
+        "name": "Salon de thé / grillades / glacier / sandwicherie Fantasia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3798489,
+          43.2965884
+        ]
+      },
+      "id": "node/2511318311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519951583",
+        "amenity": "cafe",
+        "name": "Bar des As",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3313383,
+          43.360602
+        ]
+      },
+      "id": "node/2519951583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519951587",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Denis Bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3304441,
+          43.3606985
+        ]
+      },
+      "id": "node/2519951587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2556039913",
+        "amenity": "cafe",
+        "name": "Bar Ïle de Beauté",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3840558,
+          43.3071567
+        ]
+      },
+      "id": "node/2556039913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623628805",
+        "amenity": "cafe",
+        "name": "Bar Le Dauphin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3589969,
+          43.3470782
+        ]
+      },
+      "id": "node/2623628805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2637117090",
+        "amenity": "cafe",
+        "name": "Le Ciné Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3659941,
+          43.3292428
+        ]
+      },
+      "id": "node/2637117090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645432610",
+        "amenity": "cafe",
+        "name": "O' Café Sucré"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3632714,
+          43.335423
+        ]
+      },
+      "id": "node/2645432610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810647829",
+        "amenity": "cafe",
+        "name": "Brasserie Le Boyard",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3783838,
+          43.2899952
+        ]
+      },
+      "id": "node/2810647829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810647830",
+        "amenity": "cafe",
+        "name": "Café de la Banque",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3786525,
+          43.2902249
+        ]
+      },
+      "id": "node/2810647830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2924809736",
+        "amenity": "cafe",
+        "name": "Le Nautile",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4246403,
+          43.3253079
+        ]
+      },
+      "id": "node/2924809736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2958176921",
+        "amenity": "cafe",
+        "name": "Brasserie Le Louis XVI",
+        "source": "ing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380745,
+          43.2874534
+        ]
+      },
+      "id": "node/2958176921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3314608023",
+        "amenity": "cafe",
+        "name": "Bar Chiche",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3689176,
+          43.3572084
+        ]
+      },
+      "id": "node/3314608023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3326605653",
+        "amenity": "cafe",
+        "name": "Aygalades Snack Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3658207,
+          43.3536771
+        ]
+      },
+      "id": "node/3326605653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3326605656",
+        "amenity": "cafe",
+        "name": "Snack de la Place",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3656679,
+          43.3534849
+        ]
+      },
+      "id": "node/3326605656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3440710638",
+        "addr:city": "Marseille",
+        "addr:postcode": "13004",
+        "addr:street": "Boulevard de Roux",
+        "amenity": "cafe",
+        "internet_access": "no",
+        "name": "Bar-Tabac le Trianon",
+        "note": "Un plat du jour est proposé le midi.",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4028004,
+          43.3075614
+        ]
+      },
+      "id": "node/3440710638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3448681480",
+        "amenity": "cafe",
+        "name": "Les Demoiselles du Cinq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3800087,
+          43.2944653
+        ]
+      },
+      "id": "node/3448681480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3540743755",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Au métro gourmand",
+        "source": "Bing + terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3714114,
+          43.3205718
+        ]
+      },
+      "id": "node/3540743755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3558472769",
+        "amenity": "cafe",
+        "cuisine": "steak_house",
+        "name": "La Réale",
+        "website": "http://www.hardrock.com/cafes/marseille/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3721229,
+          43.2922433
+        ]
+      },
+      "id": "node/3558472769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594277007",
+        "amenity": "cafe",
+        "name": "Café de France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3794714,
+          43.3021077
+        ]
+      },
+      "id": "node/3594277007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634336620",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks Coffee",
+        "operator": "Starbucks",
+        "source": "survey 2015",
+        "website": "http://www.starbucks.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3472054,
+          43.3632863
+        ]
+      },
+      "id": "node/3634336620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634336622",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Sizun",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3468453,
+          43.3635122
+        ]
+      },
+      "id": "node/3634336622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634375261",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Café du Littoral",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3501865,
+          43.3640119
+        ]
+      },
+      "id": "node/3634375261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636748077",
+        "amenity": "cafe",
+        "name": "Café Suspendu - Grumpy Cakes",
+        "note": "Café Suspendu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3754516,
+          43.2933633
+        ]
+      },
+      "id": "node/3636748077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636748078",
+        "amenity": "cafe",
+        "name": "Café Suspendu - Le petit Flore",
+        "note": "Café Suspendu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3754945,
+          43.2933125
+        ]
+      },
+      "id": "node/3636748078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636748079",
+        "amenity": "cafe",
+        "name": "Café Suspendu - Café debout",
+        "note": "Café Suspendu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.375452,
+          43.2930469
+        ]
+      },
+      "id": "node/3636748079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638692572",
+        "amenity": "cafe",
+        "name": "Café Suspendu - Le Petit Longchamp",
+        "note": "Café Suspendu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.392375,
+          43.3026043
+        ]
+      },
+      "id": "node/3638692572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638696649",
+        "amenity": "cafe",
+        "name": "Chez Simone - Café Suspendu",
+        "note": "Amie du Café Suspendu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3872574,
+          43.2991277
+        ]
+      },
+      "id": "node/3638696649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638701197",
+        "amenity": "cafe",
+        "note": "Café Suspendu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4343663,
+          43.2323954
+        ]
+      },
+      "id": "node/3638701197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3647443696",
+        "amenity": "cafe",
+        "name": "La Poz Gourmande",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3731262,
+          43.3095504
+        ]
+      },
+      "id": "node/3647443696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3734075615",
+        "amenity": "cafe",
+        "name": "Chez Jeff",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.363715,
+          43.3676705
+        ]
+      },
+      "id": "node/3734075615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3734075618",
+        "amenity": "cafe",
+        "shop": "kiosk",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3639056,
+          43.3678861
+        ]
+      },
+      "id": "node/3734075618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3756217303",
+        "amenity": "cafe",
+        "name": "Céfé Les Fabrettes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3574684,
+          43.3800213
+        ]
+      },
+      "id": "node/3756217303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3756217305",
+        "amenity": "cafe",
+        "name": "Konya Salon de thé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3577927,
+          43.3810072
+        ]
+      },
+      "id": "node/3756217305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3761373554",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39064,
+          43.3098401
+        ]
+      },
+      "id": "node/3761373554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3807170691",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "karma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3794296,
+          43.2959143
+        ]
+      },
+      "id": "node/3807170691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3807748867",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "name": "Le Glacier du Roi",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3659302,
+          43.2974447
+        ]
+      },
+      "id": "node/3807748867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814402617",
+        "amenity": "cafe",
+        "name": "Quai de la Galiote"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3713874,
+          43.2931722
+        ]
+      },
+      "id": "node/3814402617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3933514605",
+        "amenity": "cafe",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4376032,
+          43.2888002
+        ]
+      },
+      "id": "node/3933514605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992084757",
+        "amenity": "cafe",
+        "name": "Bar PMU L'Intemporel",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4427395,
+          43.2857911
+        ]
+      },
+      "id": "node/3992084757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992084758",
+        "amenity": "cafe",
+        "name": "Bar des Avenues",
+        "source": "terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4424528,
+          43.2857021
+        ]
+      },
+      "id": "node/3992084758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4109316465",
+        "amenity": "cafe",
+        "name": "Brassserie de la Tour",
+        "source": "knowledge 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3900874,
+          43.2850452
+        ]
+      },
+      "id": "node/4109316465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163256736",
+        "amenity": "cafe",
+        "name": "Grand Bar Café du Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430133,
+          43.2824288
+        ]
+      },
+      "id": "node/4163256736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4169931135",
+        "amenity": "cafe",
+        "name": "Bar Tabac du Pont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4046678,
+          43.2814833
+        ]
+      },
+      "id": "node/4169931135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172951379",
+        "amenity": "cafe",
+        "name": "Bar Le Flint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397082,
+          43.2833416
+        ]
+      },
+      "id": "node/4172951379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172951382",
+        "amenity": "cafe",
+        "name": "Le Carré d'As"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3948738,
+          43.2847377
+        ]
+      },
+      "id": "node/4172951382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172951386",
+        "amenity": "cafe",
+        "name": "Station Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3971919,
+          43.283326
+        ]
+      },
+      "id": "node/4172951386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4184108589",
+        "addr:housenumber": "1",
+        "addr:street": "Rue Caisserie",
+        "amenity": "cafe",
+        "name": "Salon de the Librarie - Cafe",
+        "name:en": "The Cup of Tea",
+        "name:fr": "The Cup of Tea",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-19:00",
+        "phone": "+33 4 91 90 84 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3691653,
+          43.2973695
+        ]
+      },
+      "id": "node/4184108589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241584589",
+        "addr:city": "Marseille",
+        "addr:housenumber": "8",
+        "addr:street": "Rue d'Italie",
+        "amenity": "cafe",
+        "name": "La Salle Gueule",
+        "website": "http://lasallegueule.free.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3816202,
+          43.2905706
+        ]
+      },
+      "id": "node/4241584589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4256197994",
+        "amenity": "cafe",
+        "name": "McDonald's",
+        "name:ru": "Макдак"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4008778,
+          43.2722947
+        ]
+      },
+      "id": "node/4256197994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4272918076",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks Coffee",
+        "operator": "Starbucks",
+        "website": "http://www.starbucks.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3795609,
+          43.2919409
+        ]
+      },
+      "id": "node/4272918076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374349387",
+        "addr:city": "Marseille",
+        "addr:housenumber": "12",
+        "addr:postcode": "13006",
+        "addr:street": "Place Félix Baret",
+        "amenity": "cafe",
+        "name": "Le Petit baret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3793152,
+          43.2910607
+        ]
+      },
+      "id": "node/4374349387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374349489",
+        "addr:city": "Marseille",
+        "addr:housenumber": "14",
+        "addr:postcode": "13006",
+        "addr:street": "Place Félix Baret",
+        "amenity": "cafe",
+        "name": "Italia Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3793421,
+          43.2909978
+        ]
+      },
+      "id": "node/4374349489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393393263",
+        "amenity": "cafe",
+        "name": "Royal Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3736638,
+          43.306579
+        ]
+      },
+      "id": "node/4393393263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393393890",
+        "amenity": "cafe",
+        "name": "Aux 5 Avenues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3733795,
+          43.3066297
+        ]
+      },
+      "id": "node/4393393890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396418906",
+        "amenity": "cafe",
+        "name": "POC",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3869695,
+          43.3004457
+        ]
+      },
+      "id": "node/4396418906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426183787",
+        "amenity": "cafe",
+        "name": "Club de la BDN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3815626,
+          43.2482982
+        ]
+      },
+      "id": "node/4426183787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430423949",
+        "amenity": "cafe",
+        "name": "salon de thé oriental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383183,
+          43.306213
+        ]
+      },
+      "id": "node/4430423949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430423950",
+        "amenity": "cafe",
+        "name": "association des supporters du club africain salon de thé chicha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3828193,
+          43.306512
+        ]
+      },
+      "id": "node/4430423950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498773927",
+        "addr:city": "Marseille",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "internet_access": "no",
+        "name": "Cafétéria de l'École d'Architecture",
+        "opening_hours": "8 h - 17 h",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4343534,
+          43.2292701
+        ]
+      },
+      "id": "node/4498773927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498776298",
+        "addr:city": "Marseille",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "internet_access": "no",
+        "name": "Gargantu'Art",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4353754,
+          43.2292338
+        ]
+      },
+      "id": "node/4498776298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502522895",
+        "addr:city": "Marseille",
+        "addr:housenumber": "59",
+        "addr:street": "Rue Adolphe Thiers",
+        "amenity": "cafe",
+        "contact:email": "contact@manifesten.fr",
+        "name": "Manifesten",
+        "opening_hours": "Tu 17:00-21:00; We 15:00-21:00; Th-Fr 17:00-21:00; Sa 11:00-20:00",
+        "website": "https://www.facebook.com/manifesten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3855235,
+          43.2968254
+        ]
+      },
+      "id": "node/4502522895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535075890",
+        "addr:city": "Marseille",
+        "addr:housenumber": "18",
+        "addr:postcode": "13006",
+        "addr:street": "Rue Pastoret",
+        "amenity": "cafe",
+        "cuisine": "cake;tea",
+        "name": "Si Par Azar",
+        "opening_hours": "Mo-Sa 14:30-23:45; Su 11:00-23:00",
+        "phone": "+33680900646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3846383,
+          43.2936577
+        ]
+      },
+      "id": "node/4535075890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535326289",
+        "addr:housenumber": "39",
+        "addr:postcode": "13006",
+        "addr:street": "Rue du Docteur Jean Fiolle",
+        "amenity": "cafe",
+        "email": "contact@nucleus-asso.fr",
+        "name": "Café-galerie Nucleus",
+        "name:fr": "Café-galerie Nucleus",
+        "website": "http://www.nucleus-asso.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3811578,
+          43.2844877
+        ]
+      },
+      "id": "node/4535326289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535626297",
+        "addr:housenumber": "22",
+        "addr:postcode": "13006",
+        "addr:street": "Boulevard Paul Peytral",
+        "amenity": "cafe",
+        "cuisine": "vegetarian;vegan;sandwich;regional;local;international;coffee_shop;cake;burger;noodles",
+        "internet_access": "wlan",
+        "name": "Green Bear Coffee",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "outdoor_seating": "yes",
+        "website": "http://greenbearcoffee.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3787674,
+          43.2902134
+        ]
+      },
+      "id": "node/4535626297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580397396",
+        "amenity": "cafe",
+        "name": "Bonino café",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.422789,
+          43.2529898
+        ]
+      },
+      "id": "node/4580397396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4627151989",
+        "addr:city": "Marseille",
+        "addr:housenumber": "25",
+        "addr:postcode": "13006",
+        "addr:street": "Rue des Bergers",
+        "amenity": "cafe",
+        "name": "Mademoiselle Cupcake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38459,
+          43.2914043
+        ]
+      },
+      "id": "node/4627151989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713564665",
+        "amenity": "cafe",
+        "name": "Le Gardian",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807583,
+          43.2984089
+        ]
+      },
+      "id": "node/4713564665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713564946",
+        "amenity": "cafe",
+        "name": "Café le Massy",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807132,
+          43.298729
+        ]
+      },
+      "id": "node/4713564946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4867611140",
+        "amenity": "cafe",
+        "name": "Bar des 4 avenues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3749025,
+          43.3211277
+        ]
+      },
+      "id": "node/4867611140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4901242306",
+        "amenity": "cafe",
+        "name": "Les Routiers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3587264,
+          43.3494286
+        ]
+      },
+      "id": "node/4901242306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4973332221",
+        "amenity": "cafe",
+        "name": "L'ascenseur",
+        "name:fr": "L'ascenseur",
+        "opening_hours": "\"Fermé définitivement\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3733036,
+          43.2867696
+        ]
+      },
+      "id": "node/4973332221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5041268922",
+        "addr:housenumber": "31",
+        "addr:postcode": "13002",
+        "addr:street": "Rue de la Loge / Carriera de la Lòtja",
+        "amenity": "cafe",
+        "name": "Damdy's",
+        "phone": "+33 7 61 00 56 45",
+        "website": "http://www.damdys.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3674329,
+          43.2960622
+        ]
+      },
+      "id": "node/5041268922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5051252223",
+        "addr:housenumber": "104",
+        "addr:street": "Rue Paradis",
+        "amenity": "cafe",
+        "cuisine": "cake;coffee_shop;bagel",
+        "name": "Minoofi Bakery",
+        "opening_hours": "Mo-Sa 10:30-19:00",
+        "phone": "+33 4 91 47 07 75",
+        "website": "http://www.minoofi.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3785011,
+          43.2891012
+        ]
+      },
+      "id": "node/5051252223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119639615",
+        "addr:city": "Marseille",
+        "addr:housenumber": "29",
+        "addr:postcode": "13001",
+        "addr:street": "Rue de la Palud",
+        "amenity": "cafe",
+        "gay": "welcome",
+        "name": "Café noir",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3797837,
+          43.2940139
+        ]
+      },
+      "id": "node/5119639615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5139621769",
+        "amenity": "cafe",
+        "name": "Equinoxe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4173757,
+          43.2488981
+        ]
+      },
+      "id": "node/5139621769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5188583892",
+        "amenity": "cafe",
+        "name": "Café du Coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4276698,
+          43.2816966
+        ]
+      },
+      "id": "node/5188583892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265817308",
+        "addr:city": "La Valentine",
+        "addr:postcode": "13011",
+        "addr:street": "Centre commercial la valentine, Route de la Sablière",
+        "amenity": "cafe",
+        "cuisine": "café;thé;boissons_diverses;pâtisserie",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "opening_hours": "Mo-Sa 9:00-20:00",
+        "ref:FR:NAF": "5610C",
+        "ref:FR:SIRET": "44533010300836",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4775492,
+          43.2950623
+        ]
+      },
+      "id": "node/5265817308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5310286907",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4383731,
+          43.3517478
+        ]
+      },
+      "id": "node/5310286907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5385592853",
+        "amenity": "cafe",
+        "name": "Brasserie le 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3873506,
+          43.2951861
+        ]
+      },
+      "id": "node/5385592853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5385611343",
+        "amenity": "cafe",
+        "name": "Bar Dieudé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3805107,
+          43.292138
+        ]
+      },
+      "id": "node/5385611343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5409899690",
+        "amenity": "cafe",
+        "name": "Bar du peuple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3812503,
+          43.2961068
+        ]
+      },
+      "id": "node/5409899690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411678412",
+        "amenity": "cafe",
+        "name": "Le Perrin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378184,
+          43.2962645
+        ]
+      },
+      "id": "node/5411678412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411679756",
+        "amenity": "cafe",
+        "name": "O'Monaco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3782146,
+          43.2962026
+        ]
+      },
+      "id": "node/5411679756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5428983524",
+        "amenity": "cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3779015,
+          43.3009517
+        ]
+      },
+      "id": "node/5428983524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5486290294",
+        "addr:housenumber": "15",
+        "addr:street": "Rue Louis Maurel",
+        "amenity": "cafe",
+        "diet:vegan": "no",
+        "diet:vegetarian": "only",
+        "name": "Bien être et petits plats",
+        "opening_hours": "Tu-Sa 11:00-18:00",
+        "phone": "+33 4 13 20 54 58",
+        "website": "http://beepp.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3819018,
+          43.2852603
+        ]
+      },
+      "id": "node/5486290294"
+    }
+  ]
+}
